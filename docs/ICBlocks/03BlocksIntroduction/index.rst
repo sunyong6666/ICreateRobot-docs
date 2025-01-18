@@ -1,4 +1,4 @@
-3.Blocks Introduction
+Blocks Introduction
 ====================
 
 Blocks Introduction
