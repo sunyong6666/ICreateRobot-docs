@@ -6,8 +6,7 @@ The ICBlocks series offers a wide variety of blocks. To help you get started wit
 ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732774994573-471702e5-7c5e-4ff0-b3f5-3c1e628c682e.png)
 
 ### Parts Preparation:  
-| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732944390349-841f596e-343f-40ad-b765-b9d69e7bc780.png) Boxy Robot   ×1 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732938088891-87fb8c10-dfc3-44c2-b002-f855591693ee.png)<br/> Caster Wheels   ×2 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732938075679-bb41775d-2aca-431a-9c39-a28a4f2dd679.png) Axles   ×2 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732938056035-c26c095d-60c0-49d8-9db6-94631cb95443.png) Wheels   ×2 |
-| :---: | :---: | :---: | :---: |
+
 
 
 ### Assembly Steps  
@@ -22,13 +21,11 @@ The ICBlocks series offers a wide variety of blocks. To help you get started wit
 
 ## Logic Control - Quick Start  
 ### Effect Demonstration  
-| ![](https://cdn.nlark.com/yuque/0/2024/gif/42947223/1732951242378-4f1fea9a-a026-4bd1-805e-34127457d7e5.gif)Voice-controlled Boxy Robot moves forward.   | ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1732889278565-5366932d-07c7-4178-8a6d-c52bda17cd99.gif) Voice-controlled Boxy Robot moves backward.   |
-| :---: | :---: |
+
 
 
 ### Parts Preparation  
-| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732778114000-63b0565e-84c5-4343-b159-a0432dc3c2a2.png)ICBlocks Boxy Robot   ×1 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732777952170-6f4bff32-931e-451c-88d5-faf1c582e1b1.png)Sound Block ×1 |
-| :---: | :---: |
+
 
 
 ### Steps:  
