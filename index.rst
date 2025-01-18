@@ -4,8 +4,7 @@
    :caption: Product Information
 
   
-   docs/index
-   docs/ICBlocks/index
+   docs/index.md
  
    
 
