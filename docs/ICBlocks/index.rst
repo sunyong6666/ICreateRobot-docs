@@ -5,6 +5,7 @@ go
 
 .. toctree::
    :maxdepth: 2
+   :numbered: false
    :numbered: 2
 
   
