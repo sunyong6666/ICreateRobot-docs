@@ -10,7 +10,7 @@ go
 
   
    01Introduction.md
-   02QuickStart.md
+
    03BlocksIntroduction/index
 
 
