@@ -7,7 +7,7 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 
 
 ## **Parts List**
-| ![img](img/Introduction02.png) | <br/>![img](img/遥控器.png) | <br/>      ![img](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732783598730-46f72e01-145b-4bcf-ae13-e64183f23f7b.png) | <br/>![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732783047448-52470340-8413-4595-a4c9-f3745099af92.png)         |
+| ![img](img/Introduction02.png) | <br/>![img](img/遥控器.png) | <br/>      ![img](img/Introduction04.png) | <br/>![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732783047448-52470340-8413-4595-a4c9-f3745099af92.png)         |
 | :---: | :---: | :---: | :---: |
 | Boxy Robot | Coding Board | Power Block | Motor Block |
 | ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732780626253-ac410823-8e26-4d47-aef6-7ed207bb7423.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732780836933-b940da8c-a13c-4a78-9370-99e9f84426ec.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732780839778-72def9dd-38cd-4844-9256-dc1107f30147.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732780850326-657040eb-0791-4136-844b-b986d254295d.png) |
