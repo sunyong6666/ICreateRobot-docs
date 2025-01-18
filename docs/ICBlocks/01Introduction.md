@@ -1,5 +1,5 @@
 ## Concepts  
-# ![[img]](img/Introduction01.png)
+ ![[img]](img/Introduction01.png)
 
 
 The ICBlocks series coding blocks are educational robotic products designed specifically for children aged 3-6. They are developed based on the concept of screen-free tangible programming. The blocks feature reverse-polarity-protected magnetic connections, ensuring safety and ease of use. This design allows children to engage in robotic coding simply and intuitively, away from electronic screens, fostering comprehensive development of computational thinking and logical reasoning skills.  
