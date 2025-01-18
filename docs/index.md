@@ -1,9 +1,9 @@
-## Overview  
+# Overview  
  ![img](img/1.png)
 
 Boxy Robot, part of the ICBlocks series, integrates four main functions: controller logic control, actuator logic control, screen-free coding, and Bluetooth handle remote control.  
 
-## Structure
+# Structure
 ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1733648985359-af49ae15-d0e6-4f6e-a94c-b465c8cb6b84.png)
 
 | **No.** | **Name** | **Description  ** |
