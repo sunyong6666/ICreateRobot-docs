@@ -4,8 +4,7 @@
 Blocks Introduction
 
 .. toctree::
-   :maxdepth: 2
-   :numbered: 2
+   :maxdepth: 3
    :numbered: false
 
 
