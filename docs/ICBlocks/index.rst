@@ -4,8 +4,8 @@ ICBlocks
 go
 
 .. toctree::
-   :maxdepth: 4
-   :caption: ICBlocks
+   :maxdepth: 2
+   :numbered: 2
 
   
    01Introduction.md
