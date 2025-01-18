@@ -12,6 +12,8 @@ go
    01Introduction.md
 
    03BlocksIntroduction/index
+   04FeatureOverview/index
+   05CourseCases.md
 
 
 
