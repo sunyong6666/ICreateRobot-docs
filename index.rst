@@ -2,6 +2,7 @@
 .. toctree::
    :maxdepth: 5
    :caption: Product Information
+   :glob:
 
 
  
