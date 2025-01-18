@@ -11,7 +11,7 @@ Blocks Introduction
   
    01BoxyRobot.md
    02CodingBoard.md
-   06CodingBlocks.md
+
 
 
    
