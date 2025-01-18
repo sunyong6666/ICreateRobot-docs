@@ -1,4 +1,4 @@
-4.Feature Overview
+Feature Overview
 ====================
 
 Feature Overview
