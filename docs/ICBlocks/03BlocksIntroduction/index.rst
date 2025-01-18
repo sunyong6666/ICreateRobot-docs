@@ -1,7 +1,11 @@
+ICblocks
+====================
+
+Blocks Introduction
 
 .. toctree::
-   :maxdepth: 3
-   :caption: ICBlocks
+   :maxdepth: 2
+   :numbered: 2
 
 
   
