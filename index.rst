@@ -7,6 +7,7 @@
 
  
    docs/ICBlocks/index
+   docs/ICQbot/index
    
 
 
