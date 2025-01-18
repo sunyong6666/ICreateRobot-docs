@@ -1,4 +1,4 @@
-ICblocks
+Blocks Introduction
 ====================
 
 Blocks Introduction
