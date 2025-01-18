@@ -1,7 +1,11 @@
 
+Welcome 
+==========================================
+Category:
+^^^^^
+
 .. toctree::
-   :maxdepth: 3
-   :caption: Product Information
+   :maxdepth: 2
    :glob:
 
 
