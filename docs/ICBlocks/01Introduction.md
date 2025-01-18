@@ -9,19 +9,19 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 25%; text-align: center;">
-      <img src="img/Introduction02.png" alt="Boxy Robot">
+      <img src="../../_images/Introduction02.png" alt="Boxy Robot">
       <br/>Boxy Robot
     </td>
     <td style="width: 25%; text-align: center;">
-      <img src="img/Introduction03.png" alt="Coding Board">
+      <img src="../../_images/Introduction03.png" alt="Coding Board">
       <br/>Coding Board
     </td>
     <td style="width: 25%; text-align: center;">
-      <img src="img/Introduction04.png" alt="Power Block">
+      <img src="../../_images/Introduction04.png" alt="Power Block">
       <br/>Power Block
     </td>
     <td style="width: 25%; text-align: center;">
-      <img src="img/Introduction05.png" alt="Motor Block">
+      <img src="../../_images/Introduction05.png" alt="Motor Block">
       <br/>Motor Block
     </td>
   </tr>
