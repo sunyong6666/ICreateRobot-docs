@@ -5,7 +5,7 @@
 
   
    docs/index.md
-   docs/ICBlocks/index
+   docs/ICBlocks/index.rst
    
 
 
