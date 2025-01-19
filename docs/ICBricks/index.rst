@@ -7,9 +7,8 @@ ICBricks
 
 
   
-   
-   04FeatureOverview.md
-   
+   05FirmwareUpgradeGuide.md
+  
    
 
 
