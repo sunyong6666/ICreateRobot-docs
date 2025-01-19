@@ -2,8 +2,8 @@ Feature Overview
 ========================
 
 .. toctree::
-   :maxdepth: 1
-   :numbered: 5
+   :maxdepth: 6
+   :numbered: 6
 
 
   
