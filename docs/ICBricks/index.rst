@@ -7,7 +7,8 @@ ICBricks
 
 
   
-   05FirmwareUpgradeGuide.md
+   06FailureAnalysisandSolution.md
+   07UpdateLog/index
   
    
 
