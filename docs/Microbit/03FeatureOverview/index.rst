@@ -3,7 +3,6 @@ Feature Overview
 
 .. toctree::
    :maxdepth: 6
-   :numbered: 
 
 
   
