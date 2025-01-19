@@ -1,0 +1,106 @@
+# Quick Start
+## **<font style="color:rgb(38, 38, 38);">Introduction</font>**
+The ICBlocks series offers a wide variety of blocks. To help you get started with the ICBlocks products, we have prepared a few simple examples to help you quickly understand the logic behind using ICBlocks.  
+
+## How to use?
+### Effect Demonstration:  
+![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732774994573-471702e5-7c5e-4ff0-b3f5-3c1e628c682e.png)
+
+### Parts Preparation:  
+| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732944390349-841f596e-343f-40ad-b765-b9d69e7bc780.png) Boxy Robot   ×1 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732938088891-87fb8c10-dfc3-44c2-b002-f855591693ee.png)<br/> Caster Wheels   ×2 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732938075679-bb41775d-2aca-431a-9c39-a28a4f2dd679.png) Axles   ×2 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732938056035-c26c095d-60c0-49d8-9db6-94631cb95443.png) Wheels   ×2 |
+| :---: | :---: | :---: | :---: |
+
+
+### Assembly Steps  
+| Step1: Install the Axles   | |
+| :---: | --- |
+| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732959338449-1220ff81-b8f2-479f-be36-0bbc95404a2e.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732959347174-d2056c09-760c-4bda-8b7f-97111c2957e6.png) |
+| Step2: Install the Wheels   | |
+| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732959458200-ff74fe05-0a07-42b5-80a3-97f2f1eed38d.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732959469623-99a86bce-9e87-4e82-ad57-631f9ae6515a.png) |
+| Step3: Install the Caster Wheels | |
+| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732959529328-6be07966-d135-43ec-a853-8a237003e351.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732959545455-9faff437-99fe-49b3-988e-ac9d9dc8a2e8.png) |
+
+
+## Logic Control - Quick Start  
+### Effect Demonstration  
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/42947223/1732951242378-4f1fea9a-a026-4bd1-805e-34127457d7e5.gif)Voice-controlled Boxy Robot moves forward.   | ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1732889278565-5366932d-07c7-4178-8a6d-c52bda17cd99.gif) Voice-controlled Boxy Robot moves backward.   |
+| :---: | :---: |
+
+
+### Parts Preparation  
+| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732778114000-63b0565e-84c5-4343-b159-a0432dc3c2a2.png)ICBlocks Boxy Robot   ×1 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732777952170-6f4bff32-931e-451c-88d5-faf1c582e1b1.png)Sound Block ×1 |
+| :---: | :---: |
+
+
+### Steps:  
+#### Power On   
++ Press and hold the power button on the Boxy robot for 2s to turn it on.
++ After powering on, the four status indicators on top of the Boxy Robot will light up, displaying blue and orange colors, corresponding to the blue actuator magnetic interfaces and orange sensor magnetic interfaces, respectively.
+
+![](https://cdn.nlark.com/yuque/0/2024/gif/42947223/1732951655707-f4ff57fe-5159-4a74-9f4d-691d75f0b5c7.gif)
+
+#### Connect the Sensor  
+Connect the sound block to any orange magnetic interface on the Boxy Robot (orange interfaces are for input; blue interfaces are for output).  
+
+![](https://cdn.nlark.com/yuque/0/2024/gif/42947223/1732951731614-6896fc06-8d2f-48bd-a18c-d87caf788d0d.gif)
+
+
+
+### Effect Demonstration  
+The two orange magnetic interfaces are labeled with “+” and “-”. When using the sound block to control the ICBlocks  Boxy Robot:  
+
++ Connecting to the “+” interface: The Boxy Robot moves **backward** when sound is detected.
++ Connecting to the “-” interface: The Boxy Robot moves **forward** when sound is detected.
+
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/42947223/1732951242378-4f1fea9a-a026-4bd1-805e-34127457d7e5.gif)**“-” Interface** | **Boxy Robot Moves Forward**  | ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1732889278565-5366932d-07c7-4178-8a6d-c52bda17cd99.gif)**“+” Interface** | **Boxy Robot Moves Backward** |
+| :---: | :---: |
+
+
+###  More Logic Control Scenarios  
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1732888452437-1193a1c4-aa41-4a46-8ffe-c7796397afff.gif) Button Logic Control   | ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1733034953367-84b82e76-2975-42f5-a184-d74af48b5d54.gif)Tilt Logic Control   |
+| :---: | :---: |
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1732939928940-3d3903c9-4a8c-415b-a080-bb9bb2585eb5.gif)Line-following Robot   | ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1732939597866-4d582158-0e75-438c-8a29-63b35c481798.gif)Light-chashing Car   |
+
+
+## Coding Control - Quick Start  
+### Effect Demonstration  
+Build a robot by combining LEGO Duplo bricks, use the coding board to control it, light up the LED block, and complete precise movements in a designated map area.  
+
+![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1733036372088-a2ad67bc-03d6-476a-b79a-c5dfa0d57aa4.gif)
+
+
+
+### Parts Preparation  
+| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732778114000-63b0565e-84c5-4343-b159-a0432dc3c2a2.png)Boxy Robot ×1 | <br/><br/>![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732946922582-1fe0391f-a9b4-48f7-b82e-563a7e383860.png)<br/><br/>Coding Board×1 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732785036262-9e90923d-a536-4280-9dbe-1beabbd9bb1a.png)<br/><br/>Color LED Block×1 |
+| :---: | :---: | :---: |
+| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732788420174-7d98b42c-c7cf-453b-9ee8-261e1d8839cb.png)<br/>One Step Forward Blocks ×2 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732788483394-a5b78934-f993-4d79-9dd1-df5264587e4e.png)<br/>Turn Left 90° Blocks ×1 | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1733037192720-af4c75b7-3db7-4496-a63a-c3df22f71f10.png)<br/>Turn Right 90° Block×1 |
+| ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732785801732-ddab990e-297a-4d4d-88ca-e3cf3bba29b9.png)<br/>Turn On the Light Block×1 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732971414909-e989158d-9ba3-4ac7-9f88-f1a7297b4eb3.png)<br/> Round Eye  ×1 | ![](https://cdn.nlark.com/yuque/0/2024/png/42947223/1732971334370-864f8a5d-b7d6-4839-822c-b6d74b511adb.png)<br/> Single-sided 4-hole Arcs  ×2 |
+
+
+### Steps:  
+#### Power On and Connect Bluetooth  
++ Long press the power buttons on both the Boxy Robot and coding board for 2s to power them on.
++ When the Bluetooth indicator on the coding board stops flashing and remains steady, and the two orange status indicators on the Boxy Robot turn blue, the Bluetooth connection has been successfully established.
++ If the Bluetooth connection fails, refer to the "[Maintenance and Debugging - Bluetooth Unpairing and Pairing](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/kthkmblon2x7lto6/collaborator/join?token=AqV5B0GuOdypecmQ&source=doc_collaborator#%20《Bluetooth%20Unpairing%20and%20Pairing》)" section for troubleshooting.
+
+![](https://cdn.nlark.com/yuque/0/2024/gif/42947223/1732971444844-ddead676-6972-436c-ad65-0af340d95502.gif)
+
+#### Assemble the Robot  
+Connect the color LED block to any magnetic interface on the ICBlocks robot, and use the prepared LEGO bricks to assemble the robot as shown in the diagram below.  
+
+![](https://cdn.nlark.com/yuque/0/2024/gif/42947223/1732971493569-392a5eb5-d183-4bbe-8203-a574c61a5235.gif)
+
+#### Coding
+Connect the pre-arranged coding instruction blocks to the coding board in the desired sequence.  
+
+![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1733036588070-1d7ffc29-a185-4d64-99ea-00ea324f525b.gif)
+
+#### Start the Code
+Press the “Start” button on the coding board to execute the program in order, from left to right.  
+
+![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1733036576134-c4fb9892-8be2-42eb-a8af-94cc2c654ea8.gif)
+
+
+
+
+
