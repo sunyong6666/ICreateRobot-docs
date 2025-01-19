@@ -14,6 +14,7 @@ Category:
  
 
    docs/ICBricks/index
+   docs/Microbit/index
    
 
 
