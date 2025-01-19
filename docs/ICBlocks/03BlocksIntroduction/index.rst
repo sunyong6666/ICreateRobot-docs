@@ -1,7 +1,6 @@
 Blocks Introduction
 ====================
 
-Blocks Introduction
 
 .. toctree::
    :maxdepth: 3
