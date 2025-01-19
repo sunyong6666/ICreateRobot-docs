@@ -2,8 +2,8 @@ Microbit
 ========================
 
 .. toctree::
-   :maxdepth: 5
-   :numbered: 4
+   :maxdepth: 1
+   :numbered: 
 
 
   
