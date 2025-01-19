@@ -1,8 +1,8 @@
 # Coding Board Cleaning Steps
 ## Preparation  
-| <br/>![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732877008295-ed4ca132-f899-4051-a697-97ca5f055bb1.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732780861714-f09164ea-3bbd-4b26-af58-12bcf1f2b381.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_170%2Climit_0) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732953263845-c0c209cc-268f-428e-bd63-50f3e85af58d.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732945941233-e024af15-8f4b-41e1-9d77-e840cb60a0c3.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732952296839-f5748466-f76e-46fa-8ba5-b07433a8a253.png) |
+|![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732877008295-ed4ca132-f899-4051-a697-97ca5f055bb1.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732780861714-f09164ea-3bbd-4b26-af58-12bcf1f2b381.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_170%2Climit_0) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732953263845-c0c209cc-268f-428e-bd63-50f3e85af58d.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732945941233-e024af15-8f4b-41e1-9d77-e840cb60a0c3.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732952296839-f5748466-f76e-46fa-8ba5-b07433a8a253.png) |
 | --- | :---: | :---: | :---: | :---: |
-|  Coding Board   |  Gyro Block   |  Debugging Software   |  Precision Electronics Cleaner   |  Hard-bristle Circuit Cleaning Brush   |
+|  Coding Board   |  Gyro Block   |  Debugging Software   |  Precision Electronics Cleaner   |  Hard-istle Circuit Cleaning ush   |
 
 
 ## Bluetooth Connection Debugging Software
@@ -20,9 +20,9 @@ While the coding board is turned off, hold the start button and press the power 
 + Check the "Raw ID Values" displayed for each interface. Normal values range from 360 to 370.
 + Repeatedly connect and disconnect the gyro block.
 + If all values are within the normal range, the interfaces are functioning correctly.
-+ If any abnormal data appears, use the cleaner to spray and brush the pogo pin probes.
++ If any abnormal data appears, use the cleaner to spray and ush the pogo pin probes.
 
-## Spraying Cleaner and Brushing Probes  
+## Spraying Cleaner and ushing Probes  
 | ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1732951684943-cd82ed76-ca55-4d83-b51c-f6518803ce78.gif) | ![](https://cdn.nlark.com/yuque/0/2024/gif/51021531/1732951699143-ab3c1ba1-0e9b-44a9-9d7d-f9520477ba0d.gif) |
 | :---: | :---: |
 | **Correct:** Spray directly on the pogo pin metal probes.   | **Incorrect:** Avoid spraying on strong magnets or plastic components.  |
@@ -37,9 +37,9 @@ While the coding board is turned off, hold the start button and press the power 
 | **Correct:** Focus on cleaning the pogo pin metal probes.   | **Incorrect:** Avoid cleaning strong magnets or plastic components.   |
 
 
-1. Use the dedicated hard-bristle cleaning brush to reach the gaps of the pogo pin probes.
+1. Use the dedicated hard-istle cleaning brush to reach the gaps of the pogo pin probes.
 2. Perform quick back-and-forth brushing, observing until the probe surfaces regain their metallic shine.
 
 ## Repeat Cleaning and Testing 
-Repeat the magnetic interface testing, spraying, and brushing steps until all magnetic interfaces detect the gyro block with raw ID values within the normal range.  
+Repeat the magnetic interface testing, spraying, and ushing steps until all magnetic interfaces detect the gyro block with raw ID values within the normal range.  
 
