@@ -13,7 +13,7 @@ Category:
 
  
 
-   docs/ICQbot/index
+   docs/ICBricks/index
    
 
 
