@@ -3,8 +3,6 @@ Fault Analysis and Solution
 
 
 .. toctree::
-   :maxdepth: 3
-   :numbered: 4
 
 
   
