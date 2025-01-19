@@ -10,7 +10,7 @@
 
 
 ### <font style="color:rgb(13, 13, 13);">Power on the micro: bit Smart Hub</font>
-![](https://cdn.nlark.com/yuque/0/2024/png/26790072/1732930320288-5d5a3714-4b58-4c40-886d-d622ffe11ae6.png)![](https://cdn.nlark.com/yuque/0/2024/png/26790072/1732930307278-1f895509-968a-4fe8-9347-207d97740016.png)![](https://cdn.nlark.com/yuque/0/2024/png/26790072/1732930336910-e2c05e8c-2d67-462a-8ca0-d4436dab8e44.png)
+
 
 
 
