@@ -10,7 +10,7 @@ Cleaning Magnetic Connectors
   
    01ReadBeforeOperation.md
 
-   03CodingBoardCleaningSteps.md
+
    04BlocksCleaningSteps.md
 
 
