@@ -14,6 +14,7 @@ Blocks Introduction
    03PowerBlock.md
    04OutputBlocks.md
    05InputBlocks.md
+   06CodingBlocks.md
 
 
    
