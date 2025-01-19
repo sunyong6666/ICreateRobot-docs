@@ -12,8 +12,7 @@ Blocks Introduction
    01BoxyRobot.md
    02CodingBoard.md
    03PowerBlock.md
-   
-   05InputBlocks.md
+   04OutputBlocks.md
 
 
    
