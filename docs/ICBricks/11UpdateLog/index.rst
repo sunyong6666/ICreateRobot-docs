@@ -7,7 +7,7 @@ Update Log
 
 
    01FirmwareUpdateLog/index
-
+   02SoftwareUpdateLog/index
   
    
 
