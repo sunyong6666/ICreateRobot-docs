@@ -1,8 +1,6 @@
 # Blocks Cleaning Steps
 ## Preparation  
-| ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732783047448-52470340-8413-4595-a4c9-f3745099af92.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_478%2Climit_0)| ![](https://cdn.nlark.com/yuque/0/2024/png/50993910/1732776453847-a1b7003a-dd16-45dc-91b3-5a8afb9a492b.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1033%2Climit_0) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732953263845-c0c209cc-268f-428e-bd63-50f3e85af58d.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732945941233-e024af15-8f4b-41e1-9d77-e840cb60a0c3.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732952296839-f5748466-f76e-46fa-8ba5-b07433a8a253.png) |
-| :---: | :---: | :---: | :---: | :---: |
-| Motor Block |  Boxy Robot   |  Debugging Software   |  Precision Electrical Cleaner |  Hard-bristle Circuit Cleaning Brush   |
+
 
 
 ## Bluetooth Connection Debugging Software
