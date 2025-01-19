@@ -9,6 +9,7 @@ Maintenanceand Debug
 
   
    01ICBlocksCalibrationandDebuggingToolGuide.md
+   02CleaningMagneticConnectors/index
    
 
 
