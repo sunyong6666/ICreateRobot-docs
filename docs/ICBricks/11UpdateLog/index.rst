@@ -3,7 +3,7 @@ Update Log
 
 .. toctree::
    :maxdepth: 6
-   :numbered: 
+   :numbered: false
 
 
    01FirmwareUpdateLog/index
