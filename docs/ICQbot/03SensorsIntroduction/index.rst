@@ -3,8 +3,6 @@ Sensors Introduction
 
 
 .. toctree::
-   :maxdepth: 3
-   :numbered: 4
 
 
   
