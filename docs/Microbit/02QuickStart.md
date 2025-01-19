@@ -6,11 +6,7 @@
 + **Release the button**<font style="color:rgb(13, 13, 13);">: The fan stops, and the red LED turns off.</font>
 
 ## <font style="color:rgb(42, 43, 46);">Hardware Preparation</font>
-| ![](https://cdn.nlark.com/yuque/0/2024/png/46964359/1732779929854-8b7ea493-4c94-41e3-ba62-00fcafc0de35.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/26790072/1732774693000-5ed8ac88-9a90-49a5-b836-86bf43830b0a.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/26790072/1732935365054-cd1638a6-6542-4fa6-a1a9-ca557b65aedc.png) |
-| :---: | :---: | :---: |
-| micro: bit Smart Hub×1 | Button Sensor×1 | Grove Cables ×3 |
-| ![](https://cdn.nlark.com/yuque/0/2024/png/26790072/1732775308880-371fd7e5-3268-4230-b827-8b95fec56dbc.png) | ![](https://cdn.nlark.com/yuque/0/2024/png/26790072/1732774019528-f03d8a4c-9d0f-4e1c-ba33-424315265d95.png) |  |
-| Fan Module×1 | Red LED Module×1 |  |
+
 
 
 ### <font style="color:rgb(13, 13, 13);">Power on the micro: bit Smart Hub</font>
