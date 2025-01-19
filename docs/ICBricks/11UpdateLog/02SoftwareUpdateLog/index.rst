@@ -6,7 +6,9 @@ Software Update Log
    :numbered: 6
 
 
-   01MobileProgrammingSoftware.md
+   
+   02ICrobotScratchProgrammingSoftware.md
+   03MicroBlocksExtension.md
    
    
 
