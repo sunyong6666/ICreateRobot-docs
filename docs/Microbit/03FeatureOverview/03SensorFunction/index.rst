@@ -3,7 +3,7 @@ Sensor Function
 
 .. toctree::
    :maxdepth: 6
-   :numbered: 6
+   :numbered: false
 
 
   
