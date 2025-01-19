@@ -13,6 +13,7 @@ Blocks Introduction
    02CodingBoard.md
    03PowerBlock.md
    04OutputBlocks.md
+   05InputBlocks.md
 
 
    
