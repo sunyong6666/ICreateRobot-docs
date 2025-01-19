@@ -11,7 +11,7 @@
 | Bluetooth Connection | Start Debugging |
 
 
-Establish a Bluetooth connection between the Boxy Robot and the debugging software.   Click the “Boxy Robot Debugging Mode�? to enter debugging mode.   Click the “Start Debugging�? to view real-time data for the four magnetic interfaces.  
+Establish a Bluetooth connection between the Boxy Robot and the debugging software.   Click the â€œBoxy Robot Debugging Modeâ€? to enter debugging mode.   Click the â€œStart Debuggingâ€? to view real-time data for the four magnetic interfaces.  
 
 ## Magnetic Connector Testing  
 
