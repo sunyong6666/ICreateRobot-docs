@@ -16,6 +16,7 @@ Blocks Introduction
    05InputBlocks.md
    06CodingBlocks.md
    07VoiceBlock.md
+   08AuxiliaryBlocks.md
 
 
    
