@@ -13,7 +13,7 @@ Category:
 
  
 
-   docs/Microbit/index
+   docs/ICBricks/index
    
 
 
