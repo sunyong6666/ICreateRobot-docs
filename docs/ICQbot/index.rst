@@ -9,8 +9,12 @@ ICQbot
 
   
    01Introduction.md
+
+   06CourseCase.md
+   07Firmwareupgrade/index
+   08FaultAnalysisandsolution/index
+   09UpdateLog/index
    
-   05ProgrammingSoftware/index
    
 
 
