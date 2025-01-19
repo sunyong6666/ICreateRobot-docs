@@ -27,10 +27,10 @@ In this section, we will use the ICQbot Xiao Q Robot, voice recognition sensor, 
 
 2. Assembly Steps  
 
-| ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732933479185-8d0f7e8c-9ca6-441c-980b-98150eeda753.gif)<br/> | ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732933836186-25fd46e7-a6f7-43ee-8d5a-3ad5753433da.gif)<br/> |
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732933479185-8d0f7e8c-9ca6-441c-980b-98150eeda753.gif) | ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732933836186-25fd46e7-a6f7-43ee-8d5a-3ad5753433da.gif) |
 | --- | --- |
 | a、Insert the voice recognition sensor into Port 1 or Port 2 of the blue terminal. Insert the motor into Port 1 or Port 2 of the green terminal.   | b、Assemble the fan blades and attach them to the motor.   |
-| ![](https://cdn.nlark.com/yuque/0/2024/gif/50805074/1733469326016-30f90c8c-493d-4b1a-901b-514d0d2eda59.gif)<br/> | |
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/50805074/1733469326016-30f90c8c-493d-4b1a-901b-514d0d2eda59.gif) | |
 | c、 Start using the fan:  <br/>+ First, wake up ICQbot by saying "Hello, Xiao Q."<br/>+ Use voice commands like “Motor one forward/reverse” to control the fan's rotation.<br/>+ Say “Stop motion” to stop the motor. | |
 
 
@@ -56,17 +56,17 @@ In this section, we will guide you through creating a voice-controlled stage cha
 
 2. Assembly Steps  
 
-| ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732934567597-f7b70db1-8764-47f5-8a81-342aa42edce5.gif)<br/>  |
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732934567597-f7b70db1-8764-47f5-8a81-342aa42edce5.gif)  |
 | --- |
 | Connect the voice recognition sensor to Port 1 or Port 2 of the ICQbot Xiao Q Robot. |
 
 
 3. Programming Steps  
 
-| ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732935153135-9691df00-b8c8-4523-8f10-f3fb0af2bdaa.gif)<br/> | ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732935337267-f7e4e99d-cb51-415a-a5f1-0e5f3b11fa77.gif)<br/> |
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732935153135-9691df00-b8c8-4523-8f10-f3fb0af2bdaa.gif) | ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732935337267-f7e4e99d-cb51-415a-a5f1-0e5f3b11fa77.gif) |
 | --- | --- |
 | 1、Choose a background image.   | 2、Select a Pac-Man character and three beans, then resize them to appropriate sizes (Note: Select the target character before resizing).   |
-| ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732935507279-b691f608-38a4-4fb0-88ed-7e73cb4e10ed.gif)<br/> | ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732935677499-9fe1c211-b4de-4dfb-a074-f24c8ce4357e.gif)<br/> |
+| ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732935507279-b691f608-38a4-4fb0-88ed-7e73cb4e10ed.gif) | ![](https://cdn.nlark.com/yuque/0/2024/gif/48120084/1732935677499-9fe1c211-b4de-4dfb-a074-f24c8ce4357e.gif) |
 | 3、Program Pac-Man to move using voice commands. When Pac-Man eats a bean, it grows larger.   | 4、Program the beans to disappear when Pac-Man eats them.   |
 
 
