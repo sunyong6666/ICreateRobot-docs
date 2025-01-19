@@ -6,7 +6,7 @@ Category:
 
 .. toctree::
    :maxdepth: 6
-   :numbered: false
+   :numbered: 
    :glob:
 
 
