@@ -5,8 +5,8 @@ Category:
 ^^^^^
 
 .. toctree::
-   :maxdepth: 5
-   :numbered: 4
+   :maxdepth: 6
+   :numbered: 6
    :glob:
 
 
