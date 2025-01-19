@@ -2,8 +2,8 @@ Sensor Function
 ========================
 
 .. toctree::
-   :maxdepth: 1
-   :numbered: 
+   :maxdepth: 6
+   :numbered: 6
 
 
   
