@@ -6,8 +6,8 @@ Microbit
    :numbered: 4
 
 
-  
-    02QuickStart.md
+   
+   02QuickStart.md
   
    
 
