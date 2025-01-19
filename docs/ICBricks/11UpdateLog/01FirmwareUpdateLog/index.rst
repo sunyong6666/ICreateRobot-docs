@@ -3,7 +3,7 @@ Firmware Update Log
 
 .. toctree::
    :maxdepth: 6
-   :numbered: false
+   :numbered:
 
 
    01ICBricksHubFirmwareUpdateLog.md
