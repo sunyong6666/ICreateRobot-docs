@@ -12,7 +12,7 @@ ICBricks
    04FeatureOverview.md
    09FirmwareUpgradeGuide.md
    10FailureAnalysisandSolution.md
- 
+   11UpdateLog/index
 
 
 
