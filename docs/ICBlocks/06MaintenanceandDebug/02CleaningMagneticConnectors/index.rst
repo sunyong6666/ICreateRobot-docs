@@ -9,7 +9,7 @@ Cleaning Magnetic Connectors
 
   
    01ReadBeforeOperation.md
-   02BoxyRobotCleaningSteps.md
+   
    
 
 
