@@ -3,7 +3,7 @@ ICBricks
 
 .. toctree::
    :maxdepth: 2
-   :numbered: false
+   :numbered: 
 
 
    01Introduction.md
