@@ -23,31 +23,31 @@ The ICBlocks coding board is a screen-free coding platform based on the ICBlocks
 
 
 ## Specifications  
-| **Item** | **Description  ** |
+| **Item** | **Description** |
 | :---: | :---: |
-| ** Name  ** | ICBlocks- Coding Board   |
-| ** Code  ** |  B0010001   |
-| ** Dimensions  ** |  297×70×30 mm |
-| ** Weight  ** | 244 g |
-| ** Appearance Material  ** | ABS |
-| ** Mainboard/Chip  ** | STM32F103RBT6 |
-| ** Battery Capacity  ** | 1100mAh（LiPo) |
-| ** Charging Input  ** | 5V/1A |
-| **Battery Life  ** | 7 h |
-| ** Connection/Transmission  ** | BLE4.2 / USB-C |
-| **Coding Support  ** |  Screen-Free Coding |
-| **Magnetic Block Ports  ** | 8 |
+| **Name** | ICBlocks- Coding Board   |
+| **Code** |  B0010001   |
+| **Dimensions** |  297×70×30 mm |
+| **Weight** | 244 g |
+| **Appearance Material** | ABS |
+| **Mainboard/Chip** | STM32F103RBT6 |
+| **Battery Capacity** | 1100mAh（LiPo) |
+| **Charging Input** | 5V/1A |
+| **Battery Life** | 7 h |
+| **Connection/Transmission** | BLE4.2 / USB-C |
+| **Coding Support** |  Screen-Free Coding |
+| **Magnetic Block Ports** | 8 |
 | **Age** | 3+ |
 
 
 ##  Usage Instructions  
 The coding board is a screen-free coding platform based on ICBlocks series products. It combines green coding command blocks and orange sensor blocks to meet various robot coding needs. Using the coding board, users can control the Boxy Robot's built-in motors and blue actuator blocks to realize a wide range of coding functions.  
 
-| ** Mode  ** | **Description  ** | **Example  ** |
+| ** Mode** | **Description** | **Example** |
 | :---: | --- | :---: |
 | **Built-in Motor  Coding** | Using motion command blocks, control the Boxy Robot's built-in motors to move forward, backward, turn left, right, etc., easily achieving basic motion control.   | ![](img/CodingBoard03.gif) |
 | **Blue Actuator  Block Coding** | Use motor control commands, expression commands, sound recording commands, light control commands, and more to drive the blue actuator block for advanced functions like motor rotation, expression changes, sound playback, and light control.   | ![](img/CodingBoard04.gif) |
-| ** Sensor Interaction Coding** | Combine sensor blocks with robot-related or motion instruction blocks to enable the sensors to detect the environment and control the Boxy Robot's actions, giving it intelligent response capabilities.   | ![](img/CodingBoard05.gif) |
+| **Sensor Interaction Coding** | Combine sensor blocks with robot-related or motion instruction blocks to enable the sensors to detect the environment and control the Boxy Robot's actions, giving it intelligent response capabilities.   | ![](img/CodingBoard05.gif) |
 
 
 ## Firmware Upgrade  
@@ -58,7 +58,7 @@ The coding board is a screen-free coding platform based on ICBlocks series produ
 ## Version Notes  
 This document is intended for the new version of the ICBlocks coding board and is not suitable for the older version. The distinction between the new and old versions can be seen below: 
 
-| **New Version Coding Board  ** | **Old Version Coding Board  ** |
+| **New Version Coding Board** | **Old Version Coding Board** |
 | :---: | :---: |
 | ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732966370172-5c99c497-414e-4b80-a137-4eeb9d5aa4f9.png)<br/> The "Start" label is printed above the start button in the new version.   | ![](img/CodingBoard06.png)<br/> The "Start" label is **not** printed above the start button in the old version.   |
 
