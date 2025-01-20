@@ -19,19 +19,19 @@ The Power Block is an independent power supply block that provides power to moto
 ## Specifications
 | **Item** | **Description** |
 | :---: | :---: |
-| ** Name  ** | ICBlocks- Power Block   |
-| ** Code  ** |  B0010015   |
-| ** Dimensions  ** |  66×33.5×32 mm   |
-| ** Weight  ** | 38 g |
-| ** Appearance Material  ** | ABS |
-| ** Mainboard/Chip  ** | STM32G030F6P6 |
-| ** Battery Capacity  ** | 650mAh（LiPo） |
-| ** Charging Input  ** | 5V/1A |
-| ** Battery Life  ** | 3 h |
-| ** Connection/Transmission  ** | USB-C |
-| **Magnetic Block Ports ** | 2 |
+| **Name** | ICBlocks- Power Block   |
+| **Code** |  B0010015   |
+| **Dimensions** |  66×33.5×32 mm   |
+| **Weight** | 38 g |
+| **Appearance Material** | ABS |
+| **Mainboard/Chip** | STM32G030F6P6 |
+| **Battery Capacity** | 650mAh（LiPo） |
+| **Charging Input** | 5V/1A |
+| **Battery Life** | 3 h |
+| **Connection/Transmission** | USB-C |
+| **Magnetic Block Ports** | 2 |
 | **Building Compatibility** |  LEGO DUPLO |
-| **Age  ** | 3+ |
+| **Age** | 3+ |
 
 
 ## Usage Instructions
