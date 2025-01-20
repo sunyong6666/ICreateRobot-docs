@@ -1,6 +1,6 @@
 # Blocks Cleaning Steps
 ## Preparation  
-| ![](img/blockscleaning01.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_478%2Climit_0)| ![](img/blockscleaning02.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1033%2Climit_0)| ![](img/blockscleaning03.png)| ![](img/blockscleaning04.png)| ![](img/blockscleaning05.png)|
+| ![](img/blockscleaning01.png)| ![](img/blockscleaning02.png)| ![](img/blockscleaning03.png)| ![](img/blockscleaning04.png)| ![](img/blockscleaning05.png)|
 | :---: | :---: | :---: | :---: | :---: |
 | Motor Block |  Boxy Robot   |  Debugging Software   |  Precision Electrical Cleaner |  Hard-bristle Circuit Cleaning Brush   |
 
