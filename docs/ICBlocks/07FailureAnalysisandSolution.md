@@ -94,7 +94,7 @@ Solution:
 + Switch to the correct mode if connected to other series devices.
 
 ### Debugger Installation and Device Connection  
-    1. **Install the Mini RC Debugger Application:**
+   1. **Install the Mini RC Debugger Application:**
 
 Download and install the **Mini RC Debugger** software. [[Debugger Download Link](https://www.icrobot.com/www/cn/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICRobot%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84)]  
 
@@ -104,19 +104,19 @@ After installation, open the debugger. Use a USB-C cable to connect the controll
 
      ![](img/failureanalysisandsolution03.png)
 
-    2. **Set Controller Mode:**
+   2. **Set Controller Mode:**
 
 In the **Mini RC Debugger**, select the "ICBlocks" mode.   Click the "Set Type" button. The controller will beep again, indicating a successful mode switch.  
 
        ![](img/failureanalysisandsolution04.png)
 
-    3. **Test Controller Performance:**
+   3. **Test Controller Performance:**
 
 After switching modes, test various function buttons or joysticks. If the corresponding operations in the debugging tool match, the controller is functioning correctly.  
 
  ![](img/failureanalysisandsolution05.gif)
 
-    4. **Reconnect Device:**
+   4. **Reconnect Device:**
 
 Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mp6v4re934n0lqv3/collaborator/join?token=Zetdse7a4xle4h44&source=doc_collaborator#%20《Bluetooth%20Controller%20Function ?) for more details.  
 
