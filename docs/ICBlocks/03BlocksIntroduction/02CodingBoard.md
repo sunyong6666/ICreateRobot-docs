@@ -43,7 +43,7 @@ The ICBlocks coding board is a screen-free coding platform based on the ICBlocks
 ##  Usage Instructions  
 The coding board is a screen-free coding platform based on ICBlocks series products. It combines green coding command blocks and orange sensor blocks to meet various robot coding needs. Using the coding board, users can control the Boxy Robot's built-in motors and blue actuator blocks to realize a wide range of coding functions.  
 
-| ** Mode** | **Description** | **Example** |
+| **Mode** | **Description** | **Example** |
 | :---: | --- | :---: |
 | **Built-in Motor  Coding** | Using motion command blocks, control the Boxy Robot's built-in motors to move forward, backward, turn left, right, etc., easily achieving basic motion control.   | ![](img/CodingBoard03.gif) |
 | **Blue Actuator  Block Coding** | Use motor control commands, expression commands, sound recording commands, light control commands, and more to drive the blue actuator block for advanced functions like motor rotation, expression changes, sound playback, and light control.   | ![](img/CodingBoard04.gif) |
