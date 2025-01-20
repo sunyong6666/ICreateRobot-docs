@@ -37,7 +37,7 @@ The Power Block is an independent power supply block that provides power to moto
 ## Usage Instructions
 By directly connecting the record block, expression block, LED block (or color LED block), and motors to the Power Block's magnetic ports, users can directly control and operate these actuator blocks.  
 
-| ![]((img/PowerBlock03.gif)<br/> | ![](img/PowerBlock04.gif)<br/>  | ![](img/PowerBlock05.gif)<br/>  | ![](img/PowerBlock06.gif)<br/>  |
+| ![](img/PowerBlock03.gif)<br/> | ![](img/PowerBlock04.gif)<br/>  | ![](img/PowerBlock05.gif)<br/>  | ![](img/PowerBlock06.gif)<br/>  |
 | :---: | :---: | :---: | :---: |
 |  Play sound  | Display expressions   | Illuminate LED light | Rotate motor   |
 
