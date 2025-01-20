@@ -37,7 +37,7 @@
 
 ## Coding Board
 ### **Issue:** The Boxy Robot does not execute programmed actions when the start button is pressed, despite a successful Bluetooth connection.  
-**Solution:  **
+**Solution:**
 
 1. The start button may become unresponsive over time. Use the [**ICBlocks Debug Tool**](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/stkanzgvwgry1ags/collaborator/join?token=p3oWga4Obp0fL2j7&source=doc_collaborator#%20《ICBlocks%20Calibration%20and%20Debugging%20Tool%20Guide ?) for the coding board control debugging. Refer to the debugging tool guide for details.
 2. The coding block may not have been recognized.  
@@ -61,13 +61,13 @@
 3. Internal hardware damage requires repair through after-sales service.
 
 ### **Issue:** The motor rotates only in one direction and cannot reverse.  
-**Solution:  **
+**Solution:**
 
 1. Internal hardware damage requires repair through after-sales service.  
 2. The motor may not have been recognized by the Boxy Robot. Reconnect the block.  
 
 ### **Issue:** The motor rotates normally but cannot adjust speed.  
-**Solution:  **
+**Solution:**
 
 1. Internal hardware damage requires repair through after-sales service.               
 
@@ -94,7 +94,7 @@ Solution:
 + Switch to the correct mode if connected to other series devices.
 
 ### Debugger Installation and Device Connection  
-    1. **Install the Mini RC Debugger Application:  **
+    1. **Install the Mini RC Debugger Application:**
 
 Download and install the **Mini RC Debugger** software. [[Debugger Download Link](https://www.icrobot.com/www/cn/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICRobot%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84)]  
 
@@ -104,7 +104,7 @@ After installation, open the debugger. Use a USB-C cable to connect the controll
 
      ![](img/failureanalysisandsolution03.png)
 
-    2. **Set Controller Mode:  **
+    2. **Set Controller Mode:**
 
 In the **Mini RC Debugger**, select the "ICBlocks" mode.   Click the "Set Type" button. The controller will beep again, indicating a successful mode switch.  
 
@@ -116,7 +116,7 @@ After switching modes, test various function buttons or joysticks. If the corres
 
  ![](img/failureanalysisandsolution05.gif)
 
-    4. **Reconnect Device:  **
+    4. **Reconnect Device:**
 
 Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mp6v4re934n0lqv3/collaborator/join?token=Zetdse7a4xle4h44&source=doc_collaborator#%20《Bluetooth%20Controller%20Function ?) for more details.  
 
