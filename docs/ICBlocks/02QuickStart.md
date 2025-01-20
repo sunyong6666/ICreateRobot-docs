@@ -57,7 +57,7 @@ The two orange magnetic interfaces are labeled with “+” and “-”. When us
 
 | ![](img2/Introduction17.gif) | ![](img2/Introduction18.gif) |
 | :---: | :---: |
-| **“-” Interface | Boxy Robot Moves Forward ** | **“+” Interface | Boxy Robot Moves Backward** |
+| **“-” Interface** | **Boxy Robot Moves Forward** | **“+” Interface** | **Boxy Robot Moves Backward** |
 
 
 ###  More Logic Control Scenarios  
