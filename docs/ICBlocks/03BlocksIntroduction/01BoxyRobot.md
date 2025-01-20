@@ -44,14 +44,14 @@ Boxy Robot, part of the ICBlocks series, integrates four main functions: control
 ##  Usage Instructions  
 The Boxy Robot serves as the core control hub for the ICBlocks series, offering diverse functionalities to meet a variety of robotic operation needs.  
 
-| ** Mode  ** | **Description  ** | **Example  ** |
+| **Mode** | **Description** | **Example** |
 | :---: | --- | :---: |
 |  Controller Logic Control   | The Boxy Robot is directly connected to the sensor, and the logic control function of the Boxy Robot is realized through the input. The data feedback from the sensors drives the robot to perform the corresponding action. | 
 ![](img/BoxyRobot03.gif) |
 | External Sensor Control | The Boxy Robot supports the precise control of the sensor to the actuator through logic control. | ![](img/BoxyRobot04.gif) |
 |  Screen-free Coding   | The Boxy Robot is paired with the coding board control via Bluetooth to support screen-free coding operation. Users can directly use the coding board control to design and run the control program. | 
 ![](img/BoxyRobot05.gif) |
-| ** **Bluetooth Handle Remote Control ** ** | The Boxy Robot is connected with the ICrobot multi-function handle through Bluetooth to easily realize accurate remote operation. | 
+| Bluetooth Handle Remote Control  | The Boxy Robot is connected with the ICrobot multi-function handle through Bluetooth to easily realize accurate remote operation. | 
 ![](img/BoxyRobot06.gif) |
 
 
