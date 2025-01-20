@@ -11,7 +11,7 @@ ICBlocks
    03BlocksIntroduction/index
    04FeatureOverview/index
    05CourseCases.md
-   
+   06MaintenanceandDebug/index
    07FailureAnalysisandSolution.md
    08UpdateLog/index
 
