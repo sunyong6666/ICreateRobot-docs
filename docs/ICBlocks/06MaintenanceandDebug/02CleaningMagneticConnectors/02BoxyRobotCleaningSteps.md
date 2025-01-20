@@ -1,6 +1,6 @@
 # Boxy Robot Cleaning Steps
 ## Preparation  
-| ![](img/boxrobot01.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_1033%2Climit_0) | ![](img/boxrobot02.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_170%2Climit_0) | ![](img/boxrobot03.png) | ![](img/boxrobot04.png) | ![](img/boxrobot05.png) |
+| ![](img/boxrobot01.png) | ![](img/boxrobot02.png) | ![](img/boxrobot03.png) | ![](img/boxrobot04.png) | ![](img/boxrobot05.png) |
 | :---: | :---: | :---: | :---: | :---: |
 |  Boxy Robot   | Gyro Block |  Debugging Software   |  Precision Electrical Cleaner   |  Hard-bristle Circuit Cleaning Brush   |
 
