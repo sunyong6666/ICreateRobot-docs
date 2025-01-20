@@ -75,13 +75,13 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 | **Start Motor Block** | 1 | — | — |
 | **Stop Motor Block** | 1 | — | — |
 | **Turn On the Light Block** | 1 | 1 | — |
-| ** Turn Off the Light Block** | 1 | 1 | — |
+| **Turn Off the Light Block** | 1 | 1 | — |
 | **Loop 1 Time Block** | — | 1 | 1 |
 | **Loop 2 Times Block** | — | 1 | 1 |
 | **Loop 3 Times Block** | — | 1 | 1 |
 | **Infinite Loop Block** | — | 1 | 1 |
 | **Memory Module** | — | — | — |
-| **Voice Block ** | — | — | — |
+| **Voice Block** | — | — | — |
 | **Transfer Block** | 2 | 2 | — |
 | **Magnetic Extension Wire** | 2 | 1 | — |
 | **ICRobot Multifunctional Bluetooth Handle ( Preschool )** | — | — | — |
