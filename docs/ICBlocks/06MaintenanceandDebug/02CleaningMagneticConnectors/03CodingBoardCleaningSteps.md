@@ -1,7 +1,7 @@
 # Coding Board Cleaning Steps
 ## Preparation  
 |![](img/codingboard01.png) | ![](img/codingboard02.png) | ![](img/codingboard03.png) | ![](img/codingboard04.png) | ![](img/codingboard05.png) |
-| --- | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 |  Coding Board   |  Gyro Block   |  Debugging Software   |  Precision Electronics Cleaner   |  Hard-istle Circuit Cleaning ush   |
 
 
