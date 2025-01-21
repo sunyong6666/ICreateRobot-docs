@@ -6,7 +6,7 @@
 
 
 ## Bluetooth Connection Debugging Software
-| ![](img/boxrobot06.jpeg) | ![](img/boxrobot07.jpeg) |
+| ![](img/boxrobot06.jpg) | ![](img/boxrobot07.jpg) |
 | :---: | :---: |
 | Bluetooth Connection | Start Debugging |
 
