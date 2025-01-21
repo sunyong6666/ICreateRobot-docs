@@ -6,7 +6,7 @@
 
 
 ## Bluetooth Connection Debugging Software
-| ![](img/codingboard06.jpeg) | ![](img/codingboard07.jpeg) |
+| ![](img/codingboard06.jpg) | ![](img/codingboard07.jpg) |
 | :---: | :---: |
 | Bluetooth Connection | Start Debugging |
 
