@@ -25,14 +25,14 @@ Establish a Bluetooth connection between the Boxy Robot and the debugging softwa
 ## Spraying Cleaner and Brushing Copper Contact Points
 | ![](img/blockscleaning09.gif) | ![](img/blockscleaning10.gif) |
 | :---: | :---: |
-| ** Correct:** Spray the copper contact points. | ** Incorrect:**  Avoid spraying on strong magnets.  |
+| **Correct:** Spray the copper contact points. | **Incorrect:**  Avoid spraying on strong magnets.  |
 
 
 + Shake the cleaner can evenly to ensure proper mixing.
 + Attach the spray nozzle and aim it at the four copper column contacts.
 + Press the nozzle vertically and spray the cleaner slowly onto the metal surface.
 
-| ![](img/blockscleaning11.gif) | ![](img/blockscleaning12.gif)** **  |
+| ![](img/blockscleaning11.gif) | ![](img/blockscleaning12.gif) |
 | :---: | :---: |
 |  **Correct:** Brush the copper contact points.   | **Incorrect:**  Do not brush the strong magnets.  |
 
