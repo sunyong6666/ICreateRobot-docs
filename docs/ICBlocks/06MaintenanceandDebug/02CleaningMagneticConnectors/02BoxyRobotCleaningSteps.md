@@ -1,8 +1,6 @@
 # Boxy Robot Cleaning Steps
 ## Preparation  
-| ![](img/boxrobot01.png) | ![](img/boxrobot02.png) | ![](img/boxrobot03.png) | ![](img/boxrobot04.png) | ![](img/boxrobot05.png) |
-| :---: | :---: | :---: | :---: | :---: |
-|  Boxy Robot   | Gyro Block |  Debugging Software   |  Precision Electrical Cleaner   |  Hard-bristle Circuit Cleaning Brush   |
+
 
 
 ## Bluetooth Connection Debugging Software
