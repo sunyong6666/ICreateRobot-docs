@@ -5,7 +5,7 @@
 ### Introduction</font>
 The Photoelectric Block is primarily used to detect light intensity and changes. It operates on the principle of the photoelectric effect by measuring the intensity of light received by the sensor to respond to variations in light.
 
-### **Structure**
+### Structure
 ![](img/InputBlocks02.png)![](img/InputBlocks03.png)
 
 | No. |  Name   |  Description   | |
@@ -29,7 +29,7 @@ The Photoelectric Block is primarily used to detect light intensity and changes.
 | **Effective Range** | 1～120mm |
 
 
-### **Usage Instructions**
+### Usage Instructions
 | Type | Description |  Example   |
 | --- | --- | --- |
 | **Logic Control by Boxy Robo** | Single Photoelectric block: Connect the block to the Boxy Robot's orange input terminal to control the built-in motor movement. | ![](img/InputBlocks04.gif) |
@@ -40,7 +40,7 @@ The Photoelectric Block is primarily used to detect light intensity and changes.
 
 
 
-#### **Sensitivity Adjustment**
+#### Sensitivity Adjustment
 | ![](img/InputBlocks08.png) | ![](img/InputBlocks09.png) | ![](img/InputBlocks10.png) |
 | --- | --- | --- |
 | 1. Connect the photoelectric block to the Boxy Robot using a magnetic extension wire. | 2. Adjust the potentiometer screw at the bottom of the block using a screwdriver, turning clockwise slowly as shown. The indicator turns off when the block detects a black line or obstacle and lights up when no black line is detected. | 3. Block the block's transmitter and receiver with your hand or an object. If the built-in motor stops automatically within 1-2 seconds, the adjustment is complete.   |
@@ -48,7 +48,7 @@ The Photoelectric Block is primarily used to detect light intensity and changes.
 
 _Note:_ Use a screwdriver with an SL2.0 specification. Rotate slowly and avoid large angle adjustments.
 
-## **Light Block**
+## Light Block
 ![](img/InputBlocks11.png)
 
 ### Introduction
@@ -86,7 +86,7 @@ The Light Block detects changes in ambient light intensity based on the photoele
 | **Sensor Interactive Coding** | The block can be used with "Until" blocks as a waiting module. When darkness is detected, the Boxy Robot stops executing the "Until" command and waits for a new trigger signal. | ![](img/InputBlocks17.gif) |
 
 
-#### **Sensitivity Adjustment**
+#### Sensitivity Adjustment
 When using the light detection block, if the light block cannot detect the light change or the sensitivity does not meet the requirements, the sensitivity of the block needs to be adjusted according to the following steps.
 
 | ![](img/InputBlocks18.png) | ![](img/InputBlocks19.png) | ![](img/InputBlocks20.png) |
@@ -172,7 +172,7 @@ The Button Block changes the circuit state by pressing the switch, sending a sig
 | **Connection Method** | Magnetic |
 
 
-### **Usage Instructions**
+### Usage Instructions
 | Type | Description |  Example   |
 | :---: | --- | --- |
 | **Logic Control by Boxy Robot** | Connect the button block to the orange input port of the Boxy Robot to control motor motion.   | ![](img/InputBlocks33.gif) |
@@ -209,7 +209,7 @@ The Potentiometer Block detects rotation angles and directions (clockwise/counte
 | **Connection Method** | Magnetic |
 
 
-### **Usage Instructions**
+### Usage Instructions
 | Type | Description | Example |
 | :---: | --- | --- |
 | **Logic Control by Boxy Robot** | Connect the potentiometer to the orange input port to detect rotation direction: clockwise for forward and counterclockwise for backward motion.   | ![](img/InputBlocks39.gif) |
