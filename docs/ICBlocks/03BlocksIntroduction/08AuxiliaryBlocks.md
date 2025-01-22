@@ -6,7 +6,7 @@ The ICBlocks series boasts powerful functionality. To meet diverse assembly need
 ### Structure  
 
 
-                     ![](img/AuxiliaryBlocks01.png)
+![](img/AuxiliaryBlocks01.png)
 
 
 
@@ -21,11 +21,11 @@ The ICBlocks series boasts powerful functionality. To meet diverse assembly need
 | **Item** | **Description** |
 | :---: | :---: |
 | **Name** | ICBlocks-Transfer Block |
-| **Code ** |  B0010014   |
-| **Dimensions ** |  32 x 32 x 18 mm   |
+| **Code** |  B0010014   |
+| **Dimensions** |  32 x 32 x 18 mm   |
 | **Weight** | 13 g |
 | **Material** | ABS |
-| **Operating Voltage  ** | 3.3 V |
+| **Operating Voltage** | 3.3 V |
 | **Connection Method** | Magnetic  |
 
 
@@ -47,12 +47,12 @@ The ICBlocks series boasts powerful functionality. To meet diverse assembly need
 ### Specifications  
 | **Item** | **Description** |
 | :---: | :---: |
-| **Name  ** | ICBlocks-Magnetic Extension Wire |
+| **Name** | ICBlocks-Magnetic Extension Wire |
 | **Code** |  Y0080020155   |
-| **Dimensions ** |  270 x 28 x 11 mm   |
+| **Dimensions** |  270 x 28 x 11 mm   |
 | **Weight** | 19 g |
 | **Material** | ABS + Silicone   |
-| **Operating Voltage ** | 3.3 V |
+| **Operating Voltage** | 3.3 V |
 | **Connection Method** | Magnetic   |
 
 
