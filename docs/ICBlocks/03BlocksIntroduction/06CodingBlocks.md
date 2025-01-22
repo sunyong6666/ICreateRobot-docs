@@ -1,5 +1,5 @@
 # Coding Blocks
-##  Overview  
+## Overview  
 > + **<font style="background-color:#FFFFFF;">All coding instruction blocks can only take effect on the coding board.</font>**
 >
 
@@ -35,18 +35,18 @@ As shown in the figure, all coding blocks are green square blocks. There are a t
 ### Specifications
 | **Item** | **Description** |
 | :---: | :---: |
-| **Name  ** | ICBlocks-Coding Instruction Block |
-| **Code  ** | 31.6 x 31.6 x 21.0 mm |
+| **Name** | ICBlocks-Coding Instruction Block |
+| **Code** | 31.6 x 31.6 x 21.0 mm |
 | **Weight** | 11 g |
 | **Material** | ABS |
-| **Operating Voltage  ** | 3.3 V |
+| **Operating Voltage** | 3.3 V |
 | **Connection Method** | Magnetic   |
 
 
 
 
 ## Robot Instruction Block  
-| ** Name  ** | ** Image  ** | **Block ID Range ** |
+| **Name** | **Image** | **Block ID Range** |
 | :---: | :---: | :---: |
 | **Motion Block** | ![](img/CodingBlocks33.png) |  Valid IDs: 545~639   |
 | **Stop Block** | ![](img/CodingBlocks34.png) |  Valid IDs: 1360~1474   |
@@ -57,11 +57,11 @@ The Robot Instruction blocks include motion and stop blocks. They must be used w
 ### Usage Instructions 
 | Type | **Description** |
 | :---: | --- |
-| ** Screen-Free Coding Control  ** | 1. Motion and stop blocks work with sensors (e.g., Gyro Block, Potentiometer Block) to detect state and control robot movements such as forward, backward, left, or right.  <br/>2. The stop block can also be placed in the program to halt current actions and wait for new triggers.   |
+| **Screen-Free Coding Control** | 1. Motion and stop blocks work with sensors (e.g., Gyro Block, Potentiometer Block) to detect state and control robot movements such as forward, backward, left, or right.  <br/>2. The stop block can also be placed in the program to halt current actions and wait for new triggers.   |
 
 
 ## Loop Instruction Block
-| ** Name  ** | ** Image  ** | **Block ID Range ** |
+| **Name** | **Image** | **Block ID Range** |
 | :---: | :---: | :---: |
 | **Loop 1 Time Block** | ![](img/CodingBlocks35.png) |  Valid IDs: 3357~3307 |
 | **Loop 2 Times Block** | ![](img/CodingBlocks36.png) |  Valid IDs: 3475~3405 |
@@ -74,13 +74,13 @@ The Loop Instruction Block allows a block or a group of blocks to execute repeat
 ###  Usage Instructions 
 | Type | **Description** |
 | :---: | --- |
-| **Screen-Free Coding Control  ** | The Loop Instruction Block is used with other instruction blocks.   Examples:  <br/>+ The "Loop 1 Time Block" is placed after the "One Step Forward Block", then the Boxy Robot will execute once the "One Step Forward Block"<br/>+ The "Loop 2 Times Block" is placed after the "One Step Forward Block", then the Boxy Robot will execute twice the "One Step Forward Block"<br/>+ The "Loop 3 Times Block" is placed after the "One Step Forward Block", then the Boxy Robot will execute three times the "One Step Forward Block"<br/>+ The "Infinite Loop" is placed after the "One Step Forward Block", then the Boxy Robot will continue to execute the "One Step Forward Block" indefinitely until the start button is pressed to exit the loop. |
+| **Screen-Free Coding Control** | The Loop Instruction Block is used with other instruction blocks.   Examples:  <br/>+ The "Loop 1 Time Block" is placed after the "One Step Forward Block", then the Boxy Robot will execute once the "One Step Forward Block"<br/>+ The "Loop 2 Times Block" is placed after the "One Step Forward Block", then the Boxy Robot will execute twice the "One Step Forward Block"<br/>+ The "Loop 3 Times Block" is placed after the "One Step Forward Block", then the Boxy Robot will execute three times the "One Step Forward Block"<br/>+ The "Infinite Loop" is placed after the "One Step Forward Block", then the Boxy Robot will continue to execute the "One Step Forward Block" indefinitely until the start button is pressed to exit the loop. |
 
 
 Note:  When using more than 2 loop instruction blocks on the coding board, it will not form a nest. Only when using the memory module to remember the loop program, the memory module + loop instruction block can form a nest.
 
 ## Memory Instruction Block
-| ** Name  ** | ** Image  ** | **Block ID Range ** |
+| **Name ** | **Image** | **Block ID Range** |
 | :---: | :---: | :---: |
 | **Memory Module** | ![](img/CodingBlocks39.png) |  Valid IDs: 3793~3655 |
 
@@ -92,11 +92,11 @@ The Memory Module is a storage block that stores all blocks on the coding board 
 ### Usage Instructions 
 | Type | **Description** |
 | :---: | --- |
-| **Screen-Free Coding Control  ** | There are eight magnetic ports on the coding board, and if the program written goes beyond these ports, the memory module can be used to store more instructions.<br/>1. **Store Program**: Connect the Memory Module to the last magnetic port of the coding board to store all instructions in prior connectors.  <br/>2. **Continue Coding**: Move the Memory Module to the first magnetic port and continue programming.  <br/>3. **Execute Code**: Press the start button on the coding board. The Memory Module will execute all stored instructions sequentially.   |
+| **Screen-Free Coding Control** | There are eight magnetic ports on the coding board, and if the program written goes beyond these ports, the memory module can be used to store more instructions.<br/>1. **Store Program**: Connect the Memory Module to the last magnetic port of the coding board to store all instructions in prior connectors.  <br/>2. **Continue Coding**: Move the Memory Module to the first magnetic port and continue programming.  <br/>3. **Execute Code**: Press the start button on the coding board. The Memory Module will execute all stored instructions sequentially.   |
 
 
 ## Motor Control Instruction Block
-| ** Name  ** | ** Image  ** | **Block ID Range ** |
+| **Name** | **Image** | **Block ID Range** |
 | :---: | :---: | --- |
 | **Start Motor Block** | ![](img/CodingBlocks40.png)<font style="color:#DF2A3F;background-color:#FBDE28;"></font> |  Valid IDs: 2790~2949 |
 | **Stop Motor Block** | ![](img/CodingBlocks41.png)<font style="color:#DF2A3F;background-color:#FBDE28;"></font> |  Valid IDs: 2950~3119 |
@@ -109,13 +109,13 @@ The motor control instruction blocks include two types: start the motor and stop
 ### Usage Instructions 
 | Type | **Description** |
 | :---: | --- |
-| **Screen-Free Coding Control  ** | After successfully connecting the coding board to the Boxy Robot, use the start and stop motor blocks to control the motor.   |
+| **Screen-Free Coding Control** | After successfully connecting the coding board to the Boxy Robot, use the start and stop motor blocks to control the motor.   |
 
 
 
 
 ## Lighting Control Instruction Block  
-| ** Name  ** | ** Image  ** | **Block ID Range ** |
+| **Name** | **Image** | **Block ID Range** |
 | :---: | :---: | :---: |
 | **Turn On the Light Block** | ![](img/CodingBlocks42.png) |  Valid IDs: 2580~2674 |
 | **Turn Off the Light Block** | ![](img/CodingBlocks43.png) |  Valid IDs: 2675~2789 |
@@ -126,11 +126,11 @@ The lighting control instruction blocks provide two operation states of turning 
 ### Usage Instructions 
 | Type | **Description** |
 | :---: | --- |
-| **Screen-Free Coding Control  ** | After connecting the coding board to the Boxy Robot, use Turn On the Light Block and Turn Off the Light Block to control LED or Color LED lights.   |
+| **Screen-Free Coding Control** | After connecting the coding board to the Boxy Robot, use Turn On the Light Block and Turn Off the Light Block to control LED or Color LED lights.   |
 
 
 ## Expression Control Instruction Block
-| ** Name  ** | ** Image  ** | **Block ID Range ** |
+| **Name** | **Image** | **Block ID Range** |
 | :---: | :---: | :---: |
 | **Smile Block** | ![](img/CodingBlocks44.png) |  Valid IDs: 1475~1574 |
 | **Angry Block** | ![](img/CodingBlocks45.png) |  Valid IDs: 1575~1654 |
@@ -146,11 +146,11 @@ The expression control instruction blocks contain five expressions: smile expres
 ### Usage Instructions 
 | Type | **Description** |
 | :---: | --- |
-| **Screen-Free Coding Control  ** | After connecting the coding board to the Boxy Robot, use Expression Control blocks to display facial expressions on the expression block.   |
+| **Screen-Free Coding Control** | After connecting the coding board to the Boxy Robot, use Expression Control blocks to display facial expressions on the expression block.   |
 
 
 ## Sound Control Instruction Block
-| ** Name  ** | ** Image  ** | **Block ID Range ** |
+| **Name** | **Image** | **Block ID Range** |
 | :---: | :---: | :---: |
 | **Play Recording Block** | ![](img/CodingBlocks49.png) |  Valid IDs: 2490~2579 |
 | **Phone Ring Block** | ![](img/CodingBlocks50.png) |  Valid IDs: 2400~1489 |
@@ -167,13 +167,13 @@ The sound control instruction blocks include playing recording, phone ring, car 
 ### Usage Instructions 
 | Type | **Description** |
 | :---: | --- |
-| **Screen-Free Coding Control  ** | After connecting the coding board to the Boxy Robot, use sound control blocks to play specific sounds through the sound block.   |
+| **Screen-Free Coding Control** | After connecting the coding board to the Boxy Robot, use sound control blocks to play specific sounds through the sound block.   |
 
 
 
 
 ## Motion Control Instruction Block
-| ** Name  ** | ** Image  ** | **Block ID Range ** |
+| **Name** | **Image** | **Block ID Range** |
 | :---: | :---: | :---: |
 | **One Step Forward Block** | ![](img/CodingBlocks55.png) |  Valid IDs:  1010~1099 |
 | **Two Steps Forward Block** | ![](img/CodingBlocks56.png) |  Valid IDs: 3120~3295 |
@@ -192,7 +192,7 @@ The motion control instruction blocks include One Step Forward Block, Two Steps 
 ### Usage Instructions 
 | Type | **Description** |
 | :---: | --- |
-| **Screen-Free Coding Control  ** | After connecting the coding board to the Boxy Robot, use motion control blocks to command the built-in motors for movement.   |
+| **Screen-Free Coding Control** | After connecting the coding board to the Boxy Robot, use motion control blocks to command the built-in motors for movement.   |
 
 
 
