@@ -79,7 +79,7 @@ The Voice Block is the only block in the ICBlocks series equipped with intellige
 | | | |
 | | Move forward two steps. | |
 | | Forward, backward, turn left, turn right, stop. | |
-| <br/>**LED Block Command**<br/ | Turn on the light. | <br/>Functions the same as the corresponding block, turning the LED block or color LED block on or off.  <br/> |
+| <br/>**LED Block Command** | Turn on the light. | <br/>Functions the same as the corresponding block, turning the LED block or color LED block on or off.  <br/> |
 | | | |
 | | Turn off the light. | |
 | | | |
