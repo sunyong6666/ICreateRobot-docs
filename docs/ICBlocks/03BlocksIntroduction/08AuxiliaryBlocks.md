@@ -37,7 +37,7 @@ The ICBlocks series boasts powerful functionality. To meet diverse assembly need
 ### Structure  
 ![](img/AuxiliaryBlocks02.png)
 
-| **No.** | **Name ** | ** Description ** |
+| **No.** | **Name** | **Description** |
 | :---: | :---: | :---: |
 | **①** |  Magnetic Male Port   |  Connects sensor modules and actuators.   |
 | **②** |  Magnetic Female Port   | Connects to the Boxy Robot.   |
