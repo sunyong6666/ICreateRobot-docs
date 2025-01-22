@@ -1,5 +1,5 @@
 # Quick Start
-## **<font style="color:rgb(38, 38, 38);">Introduction</font>**
+## Introduction
 The ICBlocks series offers a wide variety of blocks. To help you get started with the ICBlocks products, we have prepared a few simple examples to help you quickly understand the logic behind using ICBlocks.  
 
 ## How to use?
