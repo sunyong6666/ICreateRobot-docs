@@ -6,7 +6,7 @@
 The ICBlocks series coding blocks are educational robotic products designed specifically for children aged 3-6. They are developed based on the concept of screen-free tangible programming. The blocks feature reverse-polarity-protected magnetic connections, ensuring safety and ease of use. This design allows children to engage in robotic coding simply and intuitively, away from electronic screens, fostering comprehensive development of computational thinking and logical reasoning skills.  
 
 
-## **Parts List**
+## Parts List
 | ![img1](img1/Introduction02.png) | <br/>![img1](img1/Introduction03.png) | <br/>      ![img1](img1/Introduction04.png) | <br/>![](img1/Introduction05.png)         |
 | :---: | :---: | :---: | :---: |
 | Boxy Robot | Coding Board | Power Block | Motor Block |
@@ -35,7 +35,7 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 
 
 ## ICBlock Series of Sets
-| Item |   <font style="color:rgb(0, 0, 0);">ICBlocks Preschool Smart Coding Block Set</font> |  <font style="color:rgb(0, 0, 0);">ICBlocks Preschool Smart Coding Block Set</font>（Campus）  | ** **<font style="color:rgb(0, 0, 0);">ICBlocks Preschool Smart Coding Block Set</font>**  **<br/>** （Customized）Tailored to Your Needs  ** |
+| Item |   ICBlocks Preschool Smart Coding Block Set |  ICBlocks Preschool Smart Coding Block Set（Campus）  | ICBlocks Preschool Smart Coding Block Set <br/>（Customized）Tailored to Your Needs |
 | :---: | :---: | :---: | :---: |
 | **Boxy Robot** | 1 | 1 | 1 |
 | **Coding Board** | 1 | 1 | 1 |
