@@ -1,8 +1,8 @@
 # Output Blocks
-## <font style="color:rgb(38, 38, 38);"> Motor Block  </font>
+## Motor Block
 ![](img/OutputBlocks01.png)
 
-### **<font style="color:rgb(38, 38, 38);">Introduction</font>**
+### Introduction
 The Motor Block provides rotational power. The motor houses an N20 gear motor that generates power using the electromagnetic principle of the DC motor, and the gearbox reduces the speed to increase torque. The motor speed is controlled by an integrated main control chip and motor driver chip, enabling precise control.  
 
 ###  Structure
