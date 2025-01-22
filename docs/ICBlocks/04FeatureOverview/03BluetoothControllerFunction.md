@@ -11,7 +11,7 @@ The **ICRobot Multi-functional Bluetooth Controller** is a versatile control dev
 ## Structure  
 ![](img/BluetoothControllerFunction02.png)
 
-| ** No.  ** | **Name** | ** Description ** |
+| **No.** | **Name** | **Description** |
 | :---: | :---: | --- |
 | **①** | Home Button   | 1. Power on/off: Press and hold for 3s to turn on or off. Red light flashes when powering on.  <br/>2. Device Connection Indicator:  <br/>    1. **Red**: Bluetooth disconnected.  <br/>    2. **Blue**: Bluetooth connected.  <br/>    3. **Green**: Reset state with no connection.   |
 | **②** | Speed Buttons   | Adjust robot speed (Low, Medium, High). The default is Medium. Press to increase or decrease speed.  <br/>Long press the "+" and" - " buttons at the same time to enter the debugging mode. |
@@ -33,16 +33,16 @@ The **ICRobot Multi-functional Bluetooth Controller** is a versatile control dev
 ## Specifications  
 | **Item** | **Description** |
 | :---: | :---: |
-| **Name  ** |  ICRobot Multi-functional Bluetooth Controller |
-| **Code ** |  Z0120012   |
-| **Dimensions ** |  133 × 64 × 25 mm   |
+| **Name** |  ICRobot Multi-functional Bluetooth Controller |
+| **Code** |  Z0120012   |
+| **Dimensions** |  133 × 64 × 25 mm   |
 | **Weight** | 117 g |
-| **Material ** | ABS |
-| **Material ** | 800mAh（LiPo) |
+| **Material** | ABS |
+| **Material** | 800mAh（LiPo) |
 | **Charging Input** | 5V/1A |
-| **Battery Life  ** | 2 h |
-| ** Connectivity  ** | BLE 4.2/USB-C |
-| **Age  ** | 3+ |
+| **Battery Life** | 2 h |
+| **Connectivity** | BLE 4.2/USB-C |
+| **Age** | 3+ |
 
 
 ## Usage Instructions  
