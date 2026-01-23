@@ -60,6 +60,6 @@ This document is intended for the new version of the ICBlocks coding board and i
 
 | **New Version Coding Board** | **Old Version Coding Board** |
 | :---: | :---: |
-| ![](https://cdn.nlark.com/yuque/0/2024/png/51021531/1732966370172-5c99c497-414e-4b80-a137-4eeb9d5aa4f9.png)<br/> The "Start" label is printed above the start button in the new version.   | ![](img/CodingBoard06.png)<br/> The "Start" label is **not** printed above the start button in the old version.   |
+| ![](img/CodingBoard07.png)<br/> The "Start" label is printed above the start button in the new version.   | ![](img/CodingBoard06.png)<br/> The "Start" label is **not** printed above the start button in the old version.   |
 
 
