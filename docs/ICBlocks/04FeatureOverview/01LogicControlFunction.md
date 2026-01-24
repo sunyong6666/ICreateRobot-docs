@@ -39,7 +39,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 | ![](img/LogicControlFunction15.gif) | ![](img/LogicControlFunction17.gif)  |
 | :---: | :---: |
 |  Light-sensitive controlled LED Block   | Light-sensitive controlled Record Block  |
-| ![](img/LogicControlFunction18.gif) | ![](LogicControlFunction19.gif)  |
+| ![](img/LogicControlFunction18.gif) | ![](img/LogicControlFunction19.gif)  |
 |  Light-sensitive controlled Motor   | Light-sensitive controlled Expression Block   |
 
 
@@ -52,7 +52,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 
 
 ### Potentiometer-Controlled Actuator Functions  
-| ![](LogicControlFunction24.gif) | ![](img/LogicControlFunction25.gif) |
+| ![](img/LogicControlFunction24.gif) | ![](img/LogicControlFunction25.gif) |
 | :---: | :---: |
 | Potentiometer-controlled LED Block | Potentiometer-controlled Record Block |
 | ![](img/LogicControlFunction26.gif) | ![](img/LogicControlFunction27.gif) |
