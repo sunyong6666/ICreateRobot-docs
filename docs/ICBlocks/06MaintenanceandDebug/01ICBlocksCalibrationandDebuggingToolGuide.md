@@ -13,13 +13,13 @@ The software includes five pages: the Home Interface, Bluetooth Connection Inter
 
 |  No.   |  Name   | Description |
 | :---: | :---: | :---: |
-|  ① |  "Boxy Robot Debugging Mode"   |  Enters the Bluetooth Connection Interface if no device is connected.   |
+|  ① |  Boxy Robot Debugging Mode  |  Enters the Bluetooth Connection Interface if no device is connected.   |
 | | |  Enters the Boxy Robot Debugging Interface if a device is connected.   |
-|  ② |  "Coding Board Debugging Mode"   |  Enters the Bluetooth Connection Interface if no device is connected.   |
+|  ② |  Coding Board Debugging Mode  |  Enters the Bluetooth Connection Interface if no device is connected.   |
 | | |  Enters the Coding Board Debugging Interface if a device is connected.   |
 |  ③ |  Device Connection Status   |  Displays the device connection status on the Home Interface.   |
 |  ④ |  Set Language    |  Select language   |
-|  ⑤ |  "Boxy Robot Calibration"    |  Enters the Bluetooth Connection Interface if no device is connected.   |
+|  ⑤ |  Boxy Robot Calibration  |  Enters the Bluetooth Connection Interface if no device is connected.   |
 | | |  Enters the Boxy Robot Calibration Interface if a device is connected.   |
 |  ⑥ |  Software Version   |  Displays the current software version.   |
 
@@ -29,13 +29,12 @@ The software includes five pages: the Home Interface, Bluetooth Connection Inter
 
 |  No.   |  Name   | Description |
 | :---: | :---: | :---: |
-|  ① | Interface Title   | Displays the name of the current interface.   |
-|  ② | Device List   |  Shows the names and addresses of detected devices.   |
-|  ③ |  "Refresh"   |  Refreshes the device list when clicked.   |
-|  ④ | Device Connection |  Indicates connection status across all pages   |
-| | |  Blue for connected, Grey for disconnected.   |
-|  ⑤ |  "Back"   |  Exits the Bluetooth Connection Interface.   |
-|  ⑥ |  "Disconnect"   |  Disconnects the currently connected device.   |
+|  ① | Interface Title  | Displays the name of the current interface.   |
+|  ② | Device List  |  Shows the names and addresses of detected devices.   |
+|  ③ |  Refresh  |  Refreshes the device list when clicked.   |
+|  ④ |  Set Language  |  Select language  |
+|  ⑤ |  Back |  Exits the Bluetooth Connection Interface.   |
+|  ⑥ |  Disconnect  |  Disconnects the currently connected device.   |
 
 
 ## Boxy Robot Debugging Interface  
@@ -46,12 +45,10 @@ The software includes five pages: the Home Interface, Bluetooth Connection Inter
 |  ① | Interface Title   | Displays the name of the current interface.   |
 |  ② |  Back Button   |  Exits the current interface.   |
 |  ③ |  Data Display Area   | Displays information about attached blocks during debugging.   |
-|  ④ |  "Start Debugging"   |  Activates debugging mode.   |
+|  ④ |  Start Debugging  |  Activates debugging mode.   |
 |  ⑤ |  Coding Block Debug   |  Allows control of the Boxy Robot by sending specific commands during debugging.   |
 |  ⑥ | Actuator Block Debug |  Allows control of the Boxy Robot by sending specific commands during debugging.  |
-|  ⑦ |  Device Connection   |  Indicates connection status across all pages   |
-| | |  Blue for connected, Grey for disconnected.   |
-|  ⑧ |  "Stop Debugging"   |  Exits debugging mode.   |
+|  ⑦ |  Stop Debugging  |  Exits debugging mode.   |
 
 
 ## Boxy Robot Calibration Interface  
@@ -155,6 +152,7 @@ In this interface, the status of the coding board is displayed in real-time, inc
 ![](img/ICBlocksCalibration14.gif)
 
 <font style="color:#DF2A3F;"></font>
+
 
 
 
