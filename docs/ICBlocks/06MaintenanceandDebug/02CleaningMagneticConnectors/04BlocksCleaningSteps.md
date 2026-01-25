@@ -6,7 +6,7 @@
 
 
 ## Bluetooth Connection Debugging Software
-| ![](img/blockscleaning06.jpeg) | ![](img/blockscleaning07.jpeg) |
+| ![](img/blockscleaning06.jpg) | ![](img/blockscleaning07.jpg) |
 | :---: | :---: |
 | Bluetooth Connection | Start Debugging |
 
@@ -42,4 +42,5 @@ Establish a Bluetooth connection between the Boxy Robot and the debugging softwa
 
 ## Repeat Cleaning and Testing 
 Repeat the motor testing, spraying, and brushing steps until the debugging software detects the motor with raw ID values within the normal range and can control the motor's rotation and stopping actions normally.  
+
 
