@@ -59,16 +59,16 @@ The software includes five pages: the Home Interface, Bluetooth Connection Inter
 |  ① |  Back Button |  Exits the current interface.   |
 |  ② |  Title   | Displays the calibration action, e.g., "One Step Forward Block."   |
 |  ③ |  Previous Offset   |  Shows the last configured offset value.   |
-|  ④ |  "- " |  Decreases the current offset value by one unit per click.   |
-|  ⑤ |  "Forward Test"   | Click to realize the control of the Boxy Robot forward further |
-|  ⑥ |  "Backward Test"   | Click to realize the control of the Boxy Robot to take a step back |
-|  ⑦ |  "Left Turn Test"   | Click to realize the control of the Boxy Robot to turn left 90° |
-|  ⑧ |  "Right Turn Test"   | Click to realize the control of the Boxy Robot to turn right 90° |
-|  ⑨ |  "Reset to Factory"   | Resets the Boxy Robot's offset values to factory defaults.   |
+|  ④ |  -  |  Decreases the current offset value by one unit per click.   |
+|  ⑤ |  Forward Test  | Click to realize the control of the Boxy Robot forward further |
+|  ⑥ |  Backward Test  | Click to realize the control of the Boxy Robot to take a step back |
+|  ⑦ |  Left Turn Test  | Click to realize the control of the Boxy Robot to turn left 90° |
+|  ⑧ |  Right Turn Test  | Click to realize the control of the Boxy Robot to turn right 90° |
+|  ⑨ |  Reset to Factory  | Resets the Boxy Robot's offset values to factory defaults.   |
 |  ⑩ |  Offset Input Field   | Opens a soft keyboard for direct input of offset values.   |
-|  ⑪ |  ?+ ? | Increases the current offset value by one unit per click.   |
+|  ⑪ |  +  | Increases the current offset value by one unit per click.   |
 |  ⑫ |  Unit   | Shows the unit of the offset value, such as millimeters or degrees.   |
-|  ⑬ |  "Save Data"   | Saves the current offset configuration to the Boxy Robot.   |
+|  ⑬ |  Save Data  | Saves the current offset configuration to the Boxy Robot.   |
 
 
 ## Coding Board Debugging Interface  
@@ -152,6 +152,7 @@ In this interface, the status of the coding board is displayed in real-time, inc
 ![](img/ICBlocksCalibration14.gif)
 
 <font style="color:#DF2A3F;"></font>
+
 
 
 
