@@ -18,8 +18,7 @@ The software includes five pages: the Home Interface, Bluetooth Connection Inter
 |  ② |  "Coding Board Debugging Mode"   |  Enters the Bluetooth Connection Interface if no device is connected.   |
 | | |  Enters the Coding Board Debugging Interface if a device is connected.   |
 |  ③ |  Device Connection Status   |  Displays the device connection status on the Home Interface.   |
-|  ④ |  Device Connection Indicator   |  Indicates connection status across all pages   |
-| | |  Blue for connected, Grey for disconnected.   |
+|  ④ |  Set Language    |  Select language   |
 |  ⑤ |  "Boxy Robot Calibration"    |  Enters the Bluetooth Connection Interface if no device is connected.   |
 | | |  Enters the Boxy Robot Calibration Interface if a device is connected.   |
 |  ⑥ |  Software Version   |  Displays the current software version.   |
@@ -156,6 +155,7 @@ In this interface, the status of the coding board is displayed in real-time, inc
 ![](img/ICBlocksCalibration14.gif)
 
 <font style="color:#DF2A3F;"></font>
+
 
 
 
