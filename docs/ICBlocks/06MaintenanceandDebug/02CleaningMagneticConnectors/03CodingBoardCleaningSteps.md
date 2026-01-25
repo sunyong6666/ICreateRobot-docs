@@ -6,7 +6,7 @@
 
 
 ## Bluetooth Connection Debugging Software
-| ![](img/codingboard06.jpg) | ![](img/codingboard07.jpg) |
+| ![](img/codingboard06.png) | ![](img/codingboard07.png) |
 | :---: | :---: |
 | Bluetooth Connection | Start Debugging |
 
@@ -42,4 +42,5 @@ While the coding board is turned off, hold the start button and press the power 
 
 ## Repeat Cleaning and Testing 
 Repeat the magnetic interface testing, spraying, and ushing steps until all magnetic interfaces detect the gyro block with raw ID values within the normal range.  
+
 
