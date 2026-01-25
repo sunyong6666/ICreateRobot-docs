@@ -6,7 +6,7 @@
 
 
 ## Bluetooth Connection Debugging Software
-| ![](img/boxrobot06.jpg) | ![](img/boxrobot07.jpg) |
+| ![](img/boxrobot06.png) | ![](img/boxrobot07.png) |
 | :---: | :---: |
 | Bluetooth Connection | Start Debugging |
 
@@ -50,5 +50,6 @@ Check the "Raw ID Value" displayed for each connector.
 
 ## Repeat Cleaning and Testing  
 Repeat the steps of magnetic connector testing, spraying cleaner, and brushing probes until the Gyro Block's "Raw ID Value" for all four magnetic interfaces falls within the normal range.  
+
 
 
