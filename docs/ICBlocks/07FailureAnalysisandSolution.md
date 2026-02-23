@@ -47,8 +47,8 @@
 **Solution:**
 
 1. The coding block may not have been recognized. Reconnect the block.
-2. Clean the magnetic pins of the coding block. Refer to [the coding board cleaning guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/ax8cit9crtctxg8s/collaborator/join?token=dVGCRmsRckFsu3kn&source=doc_collaborator#%20《Coding%20Board%20Cleaning%20Steps》).  
-3. The Coding board control firmware version problem, need to go to the firmware upgrade center for firmware upgrade. Refer to [the firmware update guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/sn1gzlp8eczwvmtg/collaborator/join?token=NJhFKsFmFvnJVNYm&source=doc_collaborator#%20《Coding%20Board%20Firmware%20Upgrade》).
+2. Clean the magnetic pins of the coding block. Refer to [the coding board cleaning guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/02CleaningMagneticConnectors/03CodingBoardCleaningSteps.html).  
+3. The Coding board control firmware version problem, need to go to the firmware upgrade center for firmware upgrade. Refer to [the firmware update guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/03FirmwareUpgrade/02CodingBoardFirmwareUpgrade.html).
 
 
 
@@ -56,7 +56,7 @@
 ### **Issue:** The motor does not rotate despite proper connections.  
  **Solution:**
 
-1. The magnetic port of the motor may not be recognized. Clean the port. Refer to [the product maintenance guide.](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/fe1bgao7mx3v23mq/collaborator/join?token=WpjvwpAdoFI071uz&source=doc_collaborator#%20《模块清洁步骤 ??)
+1. The magnetic port of the motor may not be recognized. Clean the port. Refer to [the product maintenance guide.](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/02CleaningMagneticConnectors/04BlocksCleaningSteps.html)
 2. The motor cable may be internally broken and needs replacement.
 3. Internal hardware damage requires repair through after-sales service.
 
@@ -96,7 +96,7 @@ Solution:
 ### Debugger Installation and Device Connection  
    1. **Install the Mini RC Debugger Application:**
 
-Download and install the **Mini RC Debugger** software. [[Debugger Download Link](https://www.icrobot.com/www/cn/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICRobot%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84)]  
+Download and install the **Mini RC Debugger** software. [[Debugger Download Link](https://www.icrobot.com/www/cn-mobile/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICRobot%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84)]  
 
                 ![](img/failureanalysisandsolution02.png)
 
@@ -118,7 +118,8 @@ After switching modes, test various function buttons or joysticks. If the corres
 
    4. **Reconnect Device:**
 
-Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mp6v4re934n0lqv3/collaborator/join?token=Zetdse7a4xle4h44&source=doc_collaborator#%20《Bluetooth%20Controller%20Function ?) for more details.  
+Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/04FeatureOverview/03BluetoothControllerFunction.html) for more details.  
+
 
 
 
