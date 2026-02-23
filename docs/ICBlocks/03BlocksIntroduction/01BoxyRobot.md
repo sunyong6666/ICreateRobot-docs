@@ -55,7 +55,7 @@ The Boxy Robot serves as the core control hub for the ICBlocks series, offering 
 ## Firmware Upgrade  
 Please click the link to view the detailed steps to perform a firmware upgrade.
 
- [Boxy Robot Firmware Upgrade Tutorial Link  ](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/gy3t1bv6t9rp8avw/collaborator/join?token=Sl2UArygKC6EooFg&source=doc_collaborator#%20《Boxy%20Robot%20Firmware%20Upgrade》)
+ [Boxy Robot Firmware Upgrade Tutorial Link  ](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/03FirmwareUpgrade/01BoxyRobotFirmwareUpgrade.html)
 
 
 
