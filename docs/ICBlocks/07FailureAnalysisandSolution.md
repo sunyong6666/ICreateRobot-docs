@@ -39,7 +39,7 @@
 ### **Issue:** The Boxy Robot does not execute programmed actions when the start button is pressed, despite a successful Bluetooth connection.  
 **Solution:**
 
-1. The start button may become unresponsive over time. Use the [**ICBlocks Debug Tool**](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/stkanzgvwgry1ags/collaborator/join?token=p3oWga4Obp0fL2j7&source=doc_collaborator#%20《ICBlocks%20Calibration%20and%20Debugging%20Tool%20Guide ?) for the coding board control debugging. Refer to the debugging tool guide for details.
+1. The start button may become unresponsive over time. Use the [**ICBlocks Debug Tool**](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/stkanzgvwgry1ags/collaborator/join?token=p3oWga4Obp0fL2j7&source=doc_collaborator#%20《ICBlocks%20Calibration%20and%20Debugging%20Tool%20Guide》) for the coding board control debugging. Refer to the debugging tool guide for details.
 2. The coding block may not have been recognized.  
 3. No actuator is connected to the Boxy Robot.  
 
@@ -47,8 +47,8 @@
 **Solution:**
 
 1. The coding block may not have been recognized. Reconnect the block.
-2. Clean the magnetic pins of the coding block. Refer to [the coding board cleaning guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/ax8cit9crtctxg8s/collaborator/join?token=dVGCRmsRckFsu3kn&source=doc_collaborator#%20《Coding%20Board%20Cleaning%20Steps ?).  
-3. The Coding board control firmware version problem, need to go to the firmware upgrade center for firmware upgrade. Refer to [the firmware update guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/sn1gzlp8eczwvmtg/collaborator/join?token=NJhFKsFmFvnJVNYm&source=doc_collaborator#%20《Coding%20Board%20Firmware%20Upgrade ?).
+2. Clean the magnetic pins of the coding block. Refer to [the coding board cleaning guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/ax8cit9crtctxg8s/collaborator/join?token=dVGCRmsRckFsu3kn&source=doc_collaborator#%20《Coding%20Board%20Cleaning%20Steps》).  
+3. The Coding board control firmware version problem, need to go to the firmware upgrade center for firmware upgrade. Refer to [the firmware update guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/sn1gzlp8eczwvmtg/collaborator/join?token=NJhFKsFmFvnJVNYm&source=doc_collaborator#%20《Coding%20Board%20Firmware%20Upgrade》).
 
 
 
@@ -119,4 +119,5 @@ After switching modes, test various function buttons or joysticks. If the corres
    4. **Reconnect Device:**
 
 Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mp6v4re934n0lqv3/collaborator/join?token=Zetdse7a4xle4h44&source=doc_collaborator#%20《Bluetooth%20Controller%20Function ?) for more details.  
+
 
