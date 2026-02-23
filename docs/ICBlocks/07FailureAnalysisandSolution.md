@@ -32,7 +32,7 @@
     - **Orange Ports:** Connect to sensors (orange blocks).
     - **Blue Ports:** Connect to actuators (blue blocks).
 + There may be debris on the magnetic ports of the Boxy Robot and block.
-    - Clean the magnetic ports. Refer to the [Boxy Robot cleaning guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/tfkkew9bu0wl26a0/collaborator/join?token=rcDb7PrICdRx9fwl&source=doc_collaborator#%20《Boxy%20Robot%20Cleaning%20Steps ?) for detailed methods.
+    - Clean the magnetic ports. Refer to the [Boxy Robot cleaning guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/02CleaningMagneticConnectors/02BoxyRobotCleaningSteps.html) for detailed methods.
 + The magnetic interface pins may be damaged.
 
 ## Coding Board
@@ -119,5 +119,6 @@ After switching modes, test various function buttons or joysticks. If the corres
    4. **Reconnect Device:**
 
 Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mp6v4re934n0lqv3/collaborator/join?token=Zetdse7a4xle4h44&source=doc_collaborator#%20《Bluetooth%20Controller%20Function ?) for more details.  
+
 
 
