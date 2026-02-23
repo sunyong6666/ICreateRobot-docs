@@ -90,7 +90,7 @@ Build a robot by combining LEGO Duplo bricks, use the coding board to control it
 #### Power On and Connect Bluetooth  
 + Long press the power buttons on both the Boxy Robot and coding board for 2s to power them on.
 + When the Bluetooth indicator on the coding board stops flashing and remains steady, and the two orange status indicators on the Boxy Robot turn blue, the Bluetooth connection has been successfully established.
-+ If the Bluetooth connection fails, refer to the "[Maintenance and Debugging - Bluetooth Unpairing and Pairing](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/kthkmblon2x7lto6/collaborator/join?token=AqV5B0GuOdypecmQ&source=doc_collaborator#%20《Bluetooth%20Unpairing%20and%20Pairing》)" section for troubleshooting.
++ If the Bluetooth connection fails, refer to the "[Maintenance and Debugging - Bluetooth Unpairing and Pairing](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/04BluetoothUnpairingandPairing.html)" section for troubleshooting.
 
 ![](img2/Introduction33.gif)
 
