@@ -89,7 +89,7 @@
 ### **Issue:** The Bluetooth controller cannot connect to the robot.  
 Solution:  
 
- If the controller has been paired with other devices, [reset the Bluetooth connection](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mp6v4re934n0lqv3/collaborator/join?token=Zetdse7a4xle4h44&source=doc_collaborator#%20《Bluetooth%20Controller%20Function ?):
+ If the controller has been paired with other devices, [reset the Bluetooth connection](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/04FeatureOverview/03BluetoothControllerFunction.html):
 
 + Switch to the correct mode if connected to other series devices.
 
@@ -119,6 +119,7 @@ After switching modes, test various function buttons or joysticks. If the corres
    4. **Reconnect Device:**
 
 Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/04FeatureOverview/03BluetoothControllerFunction.html) for more details.  
+
 
 
 
