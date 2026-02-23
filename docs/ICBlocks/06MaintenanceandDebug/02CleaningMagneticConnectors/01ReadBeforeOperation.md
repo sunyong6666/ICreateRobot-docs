@@ -41,8 +41,6 @@ Based on the structural diagram, power, and signal transmission occur through th
 
 **Selection Criteria:** Dirt on magnetic probes is often stubborn. A soft-bristle toothbrush may fail to remove it, so a hard-bristle brush is recommended for higher efficiency.  
 
-**Purchase Reference Link: **[Hard-bristle Brush](https://item.taobao.com/item.htm?id=26777848264&ns=1&pisk=fVIiKAvF4N8sQU0HKy-_uTjJQvzLFht60lfvMIB2gdAB_cB2MnfcisA9u5tOm6XVZR9Y1iH1R_BrXGU6Dmx6cnP8wuEJCOtX0p8K2nGsYL90DqJ2Q5BwDAN8wuE07v-0s7CO5KFBTLvy0dRw7HyHHKhZgs8qY9RBhKlw3cy3KKOEbKowueleCKcw0EJqTXJyQml2uKJUKKOegbks0QjVAMPOTmSguCh4XKYMa94WfhIE8Ug17B0KRMbnABXZlmoVxdYNcgjGs68OuTT5XtqmAhBl8HJcc8uDiUbVXHSaTu8BuM5eL1exlpbc3gt65xmcZhfDzG8n3mtw0CxHLgyxPBIH6sSM88nkkHSJzh7LR5LvjLfVf1Dm0_WdeGTCm7ceGNpWYKjbUqADugun84uS7m9UHMujlFJBKQ3sVFwWXjUfKJ2nPPTwddF8KJ0jlFJBKQe3K4GX7p9Tw&priceTId=2147807817328676464177158e1c91&skuId=36082907545&spm=a21n57.1.item.133.6edb523c9fmE9o&utparam=%7B%22aplus_abtest%22%3A%226a71ee02999113ba8b09c53bdb172fb4%22%7D&xxc=ad_ztc)
-
 ## 530 Precision Electrical Cleaner  
 ![](img/ReadBeforeOperation05.png)
 
@@ -58,4 +56,5 @@ To ensure effective cleaning of the Boxy Robot's magnetic connectors, use the IC
 **Download Link for ICBlocks Calibration Software: **[Download](https://www.icrobot.com/www/cn/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICBlocks)
 
 **Usage Guide for ICBlocks Calibration Software: **[Guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/stkanzgvwgry1ags/collaborator/join?token=p3oWga4Obp0fL2j7&source=doc_collaborator#%20《ICBlocks%20Calibration%20and%20Debugging%20Tool%20Guide ?)
+
 
