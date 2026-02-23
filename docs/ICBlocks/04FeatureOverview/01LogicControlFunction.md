@@ -14,7 +14,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 | Potentiometer Logic Control | Gyro Logic Control |
 
 
-**Note**: If the sensor is not recognized during use, adjust its sensitivity following the [sensor sensitivity adjustment instructions](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/03BlocksIntroduction/04OutputBlocks.html).  
+**Note**: If the sensor is not recognized during use, adjust its sensitivity following the [sensor sensitivity adjustment instructions](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/03BlocksIntroduction/05InputBlocks.html#).  
 
 ## Actuator Logic Control Function  
 **Definition**: The Boxy Robot uses sensors connected to the orange magnetic ports to control actuators connected to the blue magnetic ports. This functionality is referred to as the **Actuator Logic Control Function**.  
