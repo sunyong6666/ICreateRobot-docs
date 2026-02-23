@@ -46,15 +46,12 @@ Based on the structural diagram, power, and signal transmission occur through th
 
 **Description:** A high-efficiency cleaner designed for electronic components and electrical equipment. It effectively removes dirt, grease, dust, and other contaminants.  
 
-**Purchase Reference Link: **[Electrical Cleaner](#)
-
 ## Cleaning Assistance Software  
 ![](img/ReadBeforeOperation06.png)
 
 To ensure effective cleaning of the Boxy Robot's magnetic connectors, use the ICBlocks Calibration and Debugging Software to monitor the interface data in real time during the cleaning process.  
 
-**Download Link for ICBlocks Calibration Software: **[Download](https://www.icrobot.com/www/cn/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICBlocks)
+**Usage Guide for ICBlocks Calibration Software: **[Guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/01ICBlocksCalibrationandDebuggingToolGuide.html)
 
-**Usage Guide for ICBlocks Calibration Software: **[Guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/stkanzgvwgry1ags/collaborator/join?token=p3oWga4Obp0fL2j7&source=doc_collaborator#%20《ICBlocks%20Calibration%20and%20Debugging%20Tool%20Guide ?)
 
 
