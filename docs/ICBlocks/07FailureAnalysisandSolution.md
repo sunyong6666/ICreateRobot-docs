@@ -39,7 +39,7 @@
 ### **Issue:** The Boxy Robot does not execute programmed actions when the start button is pressed, despite a successful Bluetooth connection.  
 **Solution:**
 
-1. The start button may become unresponsive over time. Use the [**ICBlocks Debug Tool**](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/stkanzgvwgry1ags/collaborator/join?token=p3oWga4Obp0fL2j7&source=doc_collaborator#%20《ICBlocks%20Calibration%20and%20Debugging%20Tool%20Guide》) for the coding board control debugging. Refer to the debugging tool guide for details.
+1. The start button may become unresponsive over time. Use the [**ICBlocks Debug Tool**](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/01ICBlocksCalibrationandDebuggingToolGuide.html) for the coding board control debugging. Refer to the debugging tool guide for details.
 2. The coding block may not have been recognized.  
 3. No actuator is connected to the Boxy Robot.  
 
@@ -119,6 +119,7 @@ After switching modes, test various function buttons or joysticks. If the corres
    4. **Reconnect Device:**
 
 Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mp6v4re934n0lqv3/collaborator/join?token=Zetdse7a4xle4h44&source=doc_collaborator#%20《Bluetooth%20Controller%20Function ?) for more details.  
+
 
 
 
