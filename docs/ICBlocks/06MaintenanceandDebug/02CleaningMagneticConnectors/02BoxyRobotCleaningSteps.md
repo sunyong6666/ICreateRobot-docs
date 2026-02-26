@@ -1,9 +1,9 @@
 # Boxy Robot Cleaning Steps
 ## Preparation  
- <!-- 这是一张图片，ocr 内容为： -->
- ![](img/boxrobot01.png) |![](img/boxrobot02.png) | ![](img/boxrobot03.png) | ![](img/boxrobot04.png) | ![](img/boxrobot05.png) |
+
+| ![](img/boxrobot01.png) |![](img/boxrobot02.png) | ![](img/boxrobot03.png) | ![](img/boxrobot04.png) | ![](img/boxrobot05.png) |
 | :---: | :---: | :---: | :---: | :---: |
-|  Boxy Robot   | Gyro Block |  Debugging Software   |  Precision Electrical Cleaner   |  Hard-bristle Circuit Cleaning Brush   |
+|  Boxy Robot | Gyro Block |  Debugging Software   |  Precision Electrical Cleaner   |  Hard-bristle Circuit Cleaning Brush   |
 
 ## Bluetooth Connection Debugging Software
 | ![](img/boxrobot06.png) | ![](img/boxrobot07.png) |
@@ -50,6 +50,7 @@ Check the "Raw ID Value" displayed for each connector.
 
 ## Repeat Cleaning and Testing  
 Repeat the steps of magnetic connector testing, spraying cleaner, and brushing probes until the Gyro Block's "Raw ID Value" for all four magnetic interfaces falls within the normal range.  
+
 
 
 
