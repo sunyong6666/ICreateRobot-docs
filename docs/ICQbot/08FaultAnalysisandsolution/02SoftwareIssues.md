@@ -15,11 +15,11 @@
     2. Check hidden settings: Go to Settings → Privacy → Location Services to enable or disable location services. Tap on Location to view all enabled location-based apps.  
 4.  Issue 4: Firmware Missing.
 
-       Please update the firmware using the link provided below. [[Xiao Q Robot Firmware Upgrade]  ](https://www.yuque.com/crystal-vzc6k/cfl3ix/hv25dd6vwk17x8fu)
+       Please update the firmware using the link provided below. [[Xiao Q Robot Firmware Upgrade]  ](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/07Firmwareupgrade/01ICQbotXiaoQRobot.html)
 
 5.  Issue 5: Version Mismatch  
 
-        Check the firmware and software versions for compatibility using the links provided below. [[Software Update Log] ](https://www.yuque.com/crystal-vzc6k/cfl3ix/zggla2gitzrkllch)[[Hardware Update Log]](https://www.yuque.com/crystal-vzc6k/cfl3ix/ty5dd7t1gg0dl6si)  
+       Check the firmware and software versions for compatibility using the links provided below. [[Software Update Log]](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/09UpdateLog/02SoftwareUpdateLog.html)、[[Hardware Update Log]](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/09UpdateLog/01HardwareUpdateLog.html)
 
 **Special Note:**  
 For versions 2.3.0 and earlier, Bluetooth service, location service, and location permissions must be manually enabled. Versions after 2.3.0 include a detection feature that automatically redirects users to the settings page to enable missing permissions and services.  

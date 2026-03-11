@@ -49,5 +49,5 @@ Detection Range in Programming :
 | Programming Control   | Detects far/medium/close distances to control characters or motor movement. <br/>Detects black-and-white colors to control characters or motor movement.   |
 
 
-For detailed instructions, please refer to the function description. [Click on it to learn more.](https://www.yuque.com/crystal-vzc6k/cfl3ix/gn2i0ccpz63ladpy?singleDoc#%20《逻辑控制模式》)
+For detailed instructions, please refer to the function description. [Click on it to learn more.](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/04Featureoverview/02LogicControlMode.html)
 

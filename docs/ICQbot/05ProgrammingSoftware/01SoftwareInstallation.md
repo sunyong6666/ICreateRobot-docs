@@ -3,7 +3,7 @@
 The ICQbot programming software supports Android and iOS devices. Download the mobile app and enjoy the fun of programming anytime.  
 
 ## Android System
-Search for "ICQbot" in major app stores or click the link to visit the [official website](https:www.icrobot.com) and download the app (ICQbot download).  
+Search for "ICQbot" in major app stores or click the link to visit the [official website](https://www.icrobot.com/www/cn/index.html#/file/index?type2=ICQbot) and download the app (ICQbot download).  
 
 
 
@@ -12,11 +12,8 @@ Open the App Store, search for "ICQbot," or scan the QR code below to download t
 
 ![](img/01Software.png)
 
-  
-
-
-若有收获，就点个赞吧
 
   
+
 
 

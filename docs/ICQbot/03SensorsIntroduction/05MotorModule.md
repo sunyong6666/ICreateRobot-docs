@@ -47,5 +47,5 @@ The motor provides power to the robot, controlling the direction and speed of ro
 |  Software Programming Control   | Use the APP software to program motor movement.   |
 
 
-For detailed instructions, please refer to the function description. [Click on it to learn more.](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/kryybq0pnl8b5ugh/collaborator/join?token=Dt4Ys5ewpVZk4Xih&source=doc_collaborator#%20《直接控制模式》)
+For detailed instructions, please refer to the function description. [Click on it to learn more.](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/04Featureoverview/01DirectControlMode.html#)
 

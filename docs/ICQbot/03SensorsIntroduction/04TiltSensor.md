@@ -39,5 +39,5 @@ The tilt sensor has a high-precision 3-axis gyroscope and 3-axis accelerometer c
 | Programming Control   | Detects front/back/left/right tilt motion to control motor or character movement. <br/>Detects horizontal and vibration states to control motor or character movement.   |
 
 
-For detailed instructions, please refer to the function description. [Click on it to learn more.](https://www.yuque.com/crystal-vzc6k/cfl3ix/gn2i0ccpz63ladpy?singleDoc#%20《逻辑控制模式》)
+For detailed instructions, please refer to the function description. [Click on it to learn more.](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/04Featureoverview/02LogicControlMode.html)
 

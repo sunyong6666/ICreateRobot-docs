@@ -81,5 +81,5 @@ The main controller: Xiao Q Robot serves as the core of the robot's operation. S
 | Software-Hardware Interaction Mode   | Software controls motor rotation.  <br/>Sensors control software character movements.   |
 
 
-For more detailed usage instructions, refer to the function guide and click [**Learn More**](https://www.yuque.com/crystal-vzc6k/cfl3ix/kryybq0pnl8b5ugh?singleDoc#%20《直接控制模式》).  
+For more detailed usage instructions, refer to the function guide and click [**Learn More**](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/04Featureoverview/01DirectControlMode.html).  
 

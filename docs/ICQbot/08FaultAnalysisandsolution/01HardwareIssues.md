@@ -22,7 +22,7 @@ Possible reasons include:
 _Note_<font style="color:rgb(0, 0, 0);">: After calibration, the Bluetooth names are reset and must be renamed.  </font>
 
 ## Interference When Using Voice Recognition Module  
-1. The sensor picks up all ambient sounds. Avoid using it in noisy environments. Refer to [the voice recognition sensor documentation](The%20module%20picks%20up%20all%20ambient%20sounds.%20Avoid%20using%20it%20in%20noisy%20environments.%20Refer%20to%20the%20voice%20recognition%20module%20documentation%20for%20details.) for details.  
+1. The sensor picks up all ambient sounds. Avoid using it in noisy environments. Refer to [the voice recognition sensor documentation](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/07Firmwareupgrade/01ICQbotXiaoQRobot.html) for details.  
 
 ## Motor Won't Start After Connecting to Xiao Q Robot  
 1. **Issue 1: Damaged Motor Cable**:  
@@ -58,3 +58,4 @@ Structural design problems in the project may lead to mechanical transmission no
 ---
 
 ## 
+

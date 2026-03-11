@@ -5,6 +5,7 @@
 ### Single Distance-Controlled Motor:  
 #### **<font style="color:rgb(42, 43, 46);">Demonstration</font>**
 ![](img/LogicControlMode01.gif)
+        
 
 #### How to use the distance sensor to control the motor's movement?  
  Steps:  
@@ -76,7 +77,7 @@ Steps:
 | 3、Press and hold the power button on the Xiao Q Robot for 3s, then place the line-following car on the track to begin line-following.  <br/>**Note:** If line-following does not work, try switching the motor ports.   | |
 
 
-*If you have other problems, please refer to [fault analysis and troubleshooting](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mt3pio89d0wmgysa/collaborator/join?token=6haNKiSj5A3tLXuI&source=doc_collaborator#%20《硬件类故障》) to learn more.
+*If you have other problems, please refer to [fault analysis and troubleshooting](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/08FaultAnalysisandsolution/01HardwareIssues.html) to learn more.
 
 ---
 
@@ -105,5 +106,5 @@ Steps:
 | 5、Port 2 operates similarly to Port 1.  （Attached: tilt sensor can control motor only left and right, not control front and back) |  |
 
 
-*If the tilt sensor cannot control the movement of the motor in both directions, please refer to [the fault analysis and troubleshooting](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/mt3pio89d0wmgysa/collaborator/join?token=6haNKiSj5A3tLXuI&source=doc_collaborator#%20《硬件类故障》) click for more information.
+*If the tilt sensor cannot control the movement of the motor in both directions, please refer to [the fault analysis and troubleshooting](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/08FaultAnalysisandsolution/01HardwareIssues.html) click for more information.
 

@@ -41,5 +41,5 @@ The ICQbot voice recognition sensor is capable of receiving voice commands, proc
 | Voice Programming   | Program using voice prompts to control motors.   |
 
 
-For detailed instructions, please refer to the function description. [Click on it to learn more.](https://www.yuque.com/crystal-vzc6k/cfl3ix/ivnlxdhe5afoyn5d?singleDoc#%20《语音编程模式》)
+For detailed instructions, please refer to the function description. [Click on it to learn more.](https://icreaterobot-icqbot-docs.readthedocs.io/en/latest/docs/ICQbot/04Featureoverview/03VoiceProgrammingMode.html)
 

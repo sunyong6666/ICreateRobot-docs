@@ -45,7 +45,7 @@ The voice command should match the motor's port, as shown below:
 ### How to use voice programming to control the robot's movement?  
 1. Preparation
 
-| ![](img/VoiceProgrammingMode10.png) | ![](img/VoiceProgrammingMode11.png) | ![](img/VoiceProgrammingMode12) |
+| ![](img/VoiceProgrammingMode10.png) | ![](img/VoiceProgrammingMode11.png) | ![](img/VoiceProgrammingMode12.png) |
 | :---: | :---: | :---: |
 | ICQbot Xiao Q Robot × 1 | Voice Recognition Sensor ×1 | Motors × 2 |
 
