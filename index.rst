@@ -9,7 +9,7 @@ Welcome
 
 
 
-   docs/ICBlocks/index
+   
    docs/ICQbot/index
    docs/ICBricks/index
    docs/ICRobot/index
