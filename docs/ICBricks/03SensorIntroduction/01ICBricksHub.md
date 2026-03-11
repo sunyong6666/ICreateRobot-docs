@@ -68,7 +68,7 @@
 <font style="color:#8A8F8D;">*Note: Data provided is based on laboratory testing and simulated usage scenarios. Actual battery life may vary.  </font>
 
 ## Usage Introduction
-<font style="color:rgb(44, 44, 54);">The ICBricks hub offers four usage modes. Refer to the </font>["Control Modes Introduction"](https://www.yuque.com/crystal-vzc6k/cfl3ix/fxzpcnkqxxhunuwg)<font style="color:rgb(44, 44, 54);"> for detailed instructions:  </font>
+<font style="color:rgb(44, 44, 54);">The ICBricks hub offers four usage modes. Refer to the </font>["Control Modes Introduction"](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/04FeatureOverview.html)<font style="color:rgb(44, 44, 54);"> for detailed instructions:  </font>
 
 | Mode |  Description   |
 | :---: | --- |
@@ -80,5 +80,5 @@
 
 ##Firmware Upgrade
  **<font style="color:rgb(44, 44, 54);">  For firmware upgrade instructions, click the link below: 👉</font>**
- [[Firmware Upgrade] ](https://www.yuque.com/crystal-vzc6k/cfl3ix/zahe4931hy64b1be) 
+ [[Firmware Upgrade] ](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/09FirmwareUpgradeGuide.html) 
 

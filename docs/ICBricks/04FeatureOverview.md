@@ -11,7 +11,7 @@ The direct control function does not require programming; actuators can be easil
 
 
 ### The Hub Controls Touch Color LED Sensor
-| ![]img/featureoverview04.gif) | ![](img/featureoverview05.gif) |
+| ![](img/featureoverview04.gif) | ![](img/featureoverview05.gif) |
 | --- | --- |
 | LED connected to Ports 2 and 4:  <br/>**Up or Down button:** Toggles the LED module on or off.   | LED connected to Ports 6 and 8:<br/>+ **Left or Right button:** Toggles the LED module on or off.   |
 
@@ -75,7 +75,7 @@ Activation and deactivation require holding the buttons for over 3s. Otherwise, 
 ICBricks offers various programming options to suit users of different skill levels, from beginners to advanced users, ensuring an enjoyable and fulfilling learning experience.  
 
 ### ICBricks Mobile Programming Mode  
-![](img/featureoverview20.jpeg)
+![](img/featureoverview20.png)
 
 The ICBricks programming software is a mobile graphical programming platform designed for the ICBricks 2.0 Core set. Compatible with Android and iOS devices, it supports sensor and actuator control, Bluetooth remote control, and multiple programming modes, offering a rich programming experience.  
 
@@ -84,14 +84,14 @@ The ICBricks programming software is a mobile graphical programming platform des
 |                     **Beginner Version**                     |                     **Advanced Version**                     |
 
 
-For detailed instructions, refer to the [ICBricks Mobile Programming Software Guide](https://www.yuque.com/crystal-vzc6k/cfl3ix/xk5zklboqd93ngc7).  
+For detailed instructions, refer to the [ICBricks Mobile Programming Software Guide](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/05MobileCodingSoftware/01SoftwareInstallation.html).  
 
 ### ICrobot-Scratch Programming Mode  
 ICrobot-Scratch software is also compatible with ICBricks 2.0, providing an intuitive graphical programming interface for PC. Based on Scratch, it enables users to interact with hardware devices and the stage area, seamlessly integrating software and hardware.  
 
  ![](img/featureoverview23.gif)
 
-For detailed instructions, refer to the [ICrobot-Scratch Programming Software Guide. ](https://www.yuque.com/crystal-vzc6k/cfl3ix/ua0wdq84izd143s5) 
+For detailed instructions, refer to the [ICrobot-Scratch Programming Software Guide. ](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/06ICrobotScratchSoftware/01SoftwareInstallation.html) 
 
 ### MicroBlocks Programming Mode  
 MicroBlocks is a real-time programming environment designed for rapid development and experimentation. Users can immediately run programs on the hub by simply clicking blocks, receiving instant feedback. This highly interactive environment makes programming intuitive, fast, and engaging. ICBricks 2.0 is fully compatible with MicroBlocks, allowing users to design control logic, operate hardware in real-time, and unleash creativity and flexibility.  

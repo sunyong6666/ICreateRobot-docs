@@ -66,5 +66,5 @@ The servo motor is a versatile module that supports multiple rotation control mo
 
 ##Firmware Update 
  **<font style="color:rgb(44, 44, 54);">To update the firmware, please click the link below for detailed instructions.👉  </font>**
-  [**[Motor Firmware Update Guide]**](https://www.yuque.com/crystal-vzc6k/cfl3ix/zahe4931hy64b1be)
+  [**[Motor Firmware Update Guide]**](https://icreaterobot-icbricks-docs.readthedocs.io/en/latest/docs/ICBricks/09FirmwareUpgradeGuide.html#servo-motor-firmware-upgrade)
 

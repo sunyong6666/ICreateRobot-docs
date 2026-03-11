@@ -1,5 +1,5 @@
 # Distance Sensor
-![](img/DistanceSensor03.jpeg)
+![](img/DistanceSensor03.jpg)
 
 ## **Introduction**
 <font style="color:rgb(44, 44, 54);">The distance sensor detects the distance between objects and the sensor, with a detection range of 0~255 cm.  </font>

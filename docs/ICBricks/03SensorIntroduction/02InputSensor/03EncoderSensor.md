@@ -1,5 +1,5 @@
 # Encoder Sensor
-![](img/EncoderSensor05.jpeg)
+![](img/EncoderSensor05.jpg)
 
 ## **Introduction**
 The encoder sensor features multifunctional detection capabilities, identifying forward rotation, reverse rotation, and press operations.  

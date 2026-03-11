@@ -1,5 +1,5 @@
 # Gyroscope Sensor
-![](img/GyroscopeSensor01.jpeg)
+![](img/GyroscopeSensor01.jpg)
 
 ## **Introduction**
 <font style="color:rgb(44, 44, 54);">The gyroscope sensor can detect its own tilt state (forward tilt, backward tilt, left tilt, right tilt, and horizontal), with a detection range of -90° to 90° for each axis. By measuring angular velocity and acceleration along three axes, the gyroscope sensor identifies motion states and attitude changes.  </font>

@@ -1,5 +1,5 @@
 # Multifunction Gesture Sensor
-![](img/MultifunctionGestureSensor09.jpeg)
+![](img/MultifunctionGestureSensor09.jpg)
 
 ## **Introduction**
 The multifunction gesture sensor detects changes in ambient light and recognizes various hand gestures (upward, downward, leftward, and rightward swipes).  

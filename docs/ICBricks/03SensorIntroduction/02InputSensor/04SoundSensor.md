@@ -1,5 +1,5 @@
 # Sound Sensor
-![](img/SoundSensor07.jpeg)
+![](img/SoundSensor07.jpg)
 
 ## **Introduction**
 <font style="color:rgb(44, 44, 54);">The sound sensor measures changes in sound intensity in the surrounding environment, with a detection range of 0~255.  

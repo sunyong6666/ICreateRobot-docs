@@ -44,5 +44,3 @@ The sensor features PCB edge-wrapping technology, ensuring precise touch signal 
 + <sup>[1] </sup><font style="color:rgb(44, 44, 54);"> Touch Control:  </font>
 
 ![](img/TouchColorLEDSensor05.gif)
-
-s

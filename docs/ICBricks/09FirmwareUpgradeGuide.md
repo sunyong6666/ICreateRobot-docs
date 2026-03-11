@@ -3,7 +3,7 @@
 ### Method 1:   
 Using the Firmware Upgrade Center: [https://update.icrobot.cn/](https://update.icrobot.cn/)
 
-| ![](img/FirmwareUpgradeGuide01.gif) | ![](img/FirmwareUpgradeGuide02,gif) |
+| ![](img/FirmwareUpgradeGuide01.gif) | ![](img/FirmwareUpgradeGuide02.gif) |
 | --- | --- |
 | 1、Open the ICBricks section, click on the hub version, and select the desired firmware version to upgrade.   | 2、Prepare a data download cable and connect the hub to your computer.   |
 | ![](img/FirmwareUpgradeGuide03.gif) | ![](img/FirmwareUpgradeGuide04.gif) |
@@ -21,7 +21,7 @@ Using the Firmware Upgrade Center: [https://update.icrobot.cn/](https://update.i
 
 
 ## Servo Motor Firmware Upgrade  
-| ![](img/FirmwareUpgradeGuide0502.gif) | ![](img.FirmwareUpgradeGuide0501.gif) |
+| ![](img/FirmwareUpgradeGuide0502.gif) | ![](img/FirmwareUpgradeGuide0501.gif) |
 | --- | --- |
 | 1、<font style="color:rgb(44, 44, 54);">Prepare an </font>IC-Link 2.0 Flasher<font style="color:rgb(44, 44, 54);">, switch the </font>SWD toggle<font style="color:rgb(44, 44, 54);"> to the right side and the </font>Normal/Reverse toggle<font style="color:rgb(44, 44, 54);"> to the left side.  </font> | 2、<font style="color:rgb(44, 44, 54);">Use a </font>grove cable<font style="color:rgb(44, 44, 54);"> to connect the servo motor to the </font>J1 port<font style="color:rgb(44, 44, 54);"> of the Link Flasher, then connect the Link Flasher to your computer.  </font> |
 | ![](img/FirmwareUpgradeGuide05.gif) | ![](img/FirmwareUpgradeGuide06.gif) |
