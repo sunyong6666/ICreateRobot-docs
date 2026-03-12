@@ -10,19 +10,4 @@ Welcome
 
 
    
-   docs/ICQbot/index
-   docs/ICBricks/index
-   docs/ICRobot/index
-   
-   docs/AIVision/index
- 
-   docs/Six/index
-  
-   
-   
-
-
-
-
-
-
+   docs/ICBlocks/index
