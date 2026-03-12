@@ -15,7 +15,7 @@ Welcome
    docs/ICRobot/index
    
    docs/AIVision/index
-   docs/AIVisionAdvanced/index
+ 
    docs/Six/index
    docs/ICreateCode/index
    
