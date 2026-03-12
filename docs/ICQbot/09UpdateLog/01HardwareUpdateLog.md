@@ -1,0 +1,20 @@
+# Hardware Update Log
+
+## ICQbot XiaoQ Robot Hardware Update Log  
+
+| Version |  Optimization Details   |  Update Date   |  Notes   |
+| --- | --- | :---: | --- |
+|  [ICQbot_Master_V1.3 ](https://update.icrobot.cn/)   | 1. <font style="color:rgb(0, 0, 0);">Optimized Bluetooth version query command for compatibility with the latest software.  </font><br/>2. <font style="color:rgb(0, 0, 0);">Fixed a bug causing iOS app crashes.  </font> | <font style="color:rgb(0, 0, 0);">2024-09-28</font> | Compatible with Bluetooth ECB02C & JDY23 versions; recommend using  <font style="color:rgb(0, 0, 0);">Android ICQbot_V2.4.7&IOS  ICQbot_1.9.1 </font> |
+| <font style="color:rgb(0, 0, 0);">ICQbot_Master_V1.2</font> | 1. <font style="color:rgb(0, 0, 0);">Automatic adaptation for Bluetooth modules (ECB02C and JDY23).</font><br/>2. <font style="color:rgb(0, 0, 0);">Updated default Bluetooth names to include version numbers:</font><br/>3. <font style="color:rgb(0, 0, 0);">"IC Qbot x.xx" for old Bluetooth ECB02C.</font><br/>4. <font style="color:rgb(0, 0, 0);">"IC Qbot x.xx pro" for new Bluetooth JDY23.</font><br/><font style="color:rgb(0, 0, 0);">Added Bluetooth version query command.</font><br/>5. <font style="color:rgb(0, 0, 0);">Modified power-on/off sound to use 6 tones.  </font> | <font style="color:rgb(0, 0, 0);">2024-09-26</font> | <font style="color:rgb(0, 0, 0);">Adapt Xiao Q Robot Bluetooth ECB02C & JDY 23 version</font> |
+| <font style="color:rgb(0, 0, 0);">ICQbot_Master_V1.1</font>  | 1. <font style="color:rgb(0, 0, 0);">Adjusted code (Version 240830) to optimize Bluetooth baud rate, AT commands, and message retrieval.  </font><br/>2. <font style="color:rgb(0, 0, 0);">Improved LED control with battery status. Fixed issue: "LED remains unchanged after Bluetooth disconnection."  </font><br/>3. <font style="color:rgb(0, 0, 0);">Resolved sensor freezing issue during operation (serial port reset).  </font> | <font style="color:rgb(0, 0, 0);">2024-09-14</font> | <font style="color:rgb(0, 0, 0);">Compatible with Bluetooth JDY23 version.  </font> |
+| <font style="color:rgb(0, 0, 0);">ICQbot_Master_V1.0</font> | 1. Improved charging indicator accuracy by upgrading firmware for 100mΩ resistor.  <br/>2. Replaced Bluetooth ECB02C with JDY23 and updated resistor to 200mΩ.   | <font style="color:rgb(0, 0, 0);">2024-08-30</font> | <font style="color:rgb(0, 0, 0);">Compatible with Bluetooth JDY23 version.  </font> |
+| ICQbot-240401  | 1. Fixed issues with detecting buttons 1 and 2 during Bluetooth connection.  <br/>2. Resolved bug preventing charging mode entry when powered off.   | 2024-04-01 | Compatible with Bluetooth ECB02C version; supports iOS version 1.8.1+ and Android version 2.4.1+.   |
+| ICQbot-240328   | 1. Adjusted button response delay.  <br/>2.  Optimized charging algorithm.  <br/>3.  Updated button board charge status display:   Green, Yellow, Orange, Red LEDs indicating 100%, 80%, 40%, and 20%, synchronized with controller LEDs.  <br/>4. Modified LED charge status display on the controller:    Flashing for <70%, Flash once for 70%, Double flash for 80%, Triple flash for 90%, Constant for 100%.  <br/>5. Updated charging standby logic: 80% for 20 minutes, 90% for 10 minutes (total 30 minutes).  <br/>6. Reduced power-on/off sound tones.  <br/>7. Bluetooth voice programming [to be open] | 2024-03-28 | Compatible with Bluetooth ECB02C version; supports iOS version 1.8.1+ and Android version 2.4.1+.   |
+
+
+## Voice Recognition Sensor Hardware Update Log  
+| Version |  Optimization Details   |  Update Date   |  Notes   |
+| :---: | --- | :---: | :---: |
+| ICQbot_Voice_2.2 | 1. <font style="color:#000000;">Reduced the number of self-learning command words from 6 to 3 (default actions: forward, backward, left turn).  </font><br/>2. <font style="color:#000000;">Changed self-learning process to require two repetitions.  </font><br/>3. <font style="color:#000000;">Added wake words: "Hello Xiao Q," "Hello Xiao Ai," "Hello Xiao Ke," "Hello Xiao Rui," "Hello Xiao Te."  </font> | 2024-09-01 |  |
+
+
