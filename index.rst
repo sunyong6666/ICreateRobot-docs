@@ -10,7 +10,7 @@ Welcome
 
 
    
-   docs/ICQbot/index
+   
    docs/ICBricks/index
    docs/ICRobot/index
    docs/Microbit/index
