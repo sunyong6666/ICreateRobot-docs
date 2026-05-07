@@ -83,7 +83,7 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 | **Memory Module** | — | — | — |
 | **Voice Block** | — | — | — |
 | **Transfer Block** | 2 | 2 | — |
-| **Magnetic Extension Wire** | 2 | 1 | — |
+| **Magnetic Extension Wire** | 2 | 2 | — |
 | **ICRobot Multifunctional Bluetooth Handle ( Preschool )** | — | — | — |
 
 
