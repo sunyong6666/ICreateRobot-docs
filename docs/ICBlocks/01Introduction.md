@@ -48,23 +48,23 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 | **Photoelectric Block** | 2 | 2 | — |
 | **Potentiometer Block** | 1 | 1 | — |
 | **Gyro Block** | 1 | 1 | 1 |
-| **Light Block** | 2 | — | — |
+| **Light Block** | 1 | — | — |
 | **Sound Block** | 1 | 1 | — |
 | **Button Block** | 1 | 1 | — |
 | **Happy Block** | 1 | — | — |
 | **Sad Block** | 1 | — | — |
-| **Cry Block** | 1 | — | — |
-| **Smile Block** | 1 | — | — |
-| **Angry Block** | 1 | — | — |
+| **Cry Block** | — | — | — |
+| **Smile Block** | — | — | — |
+| **Angry Block** | — | — | — |
 | **Play Recording Block** | 1 | 1 | — |
-| **Police Car Siren Block** | 1 | — | — |
-| **Phone Ring Block** | 1 | — | — |
-| **Fireengine Siren Block** | 1 | — | — |
+| **Police Car Siren Block** | — | — | — |
+| **Phone Ring Block** | — | — | — |
+| **Fireengine Siren Block** | — | — | — |
 | **Car Whistle Block** | 1 | — | — |
-| **Train Whistle Block** | 1 | — | — |
+| **Train Whistle Block** | — | — | — |
 | **Forward Until Block** | 1 | — | — |
-| **One Step Forward Block** | 2 | 3 | 2 |
-| **Turn Left Until Block** | 1 | — | — |
+| **One Step Forward Block** | 1 | 3 | 2 |
+| **Turn Left Until Block** | — | — | — |
 | **Turn Left 90° Block** | 2 | 2 | 2 |
 | **Turn Right Until Block** | 1 | — |  |
 | **Turn Right 90° Block** | 2 | 2 | 2 |
@@ -82,8 +82,8 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 | **Infinite Loop Block** | — | 1 | 1 |
 | **Memory Module** | — | — | — |
 | **Voice Block** | — | — | — |
-| **Transfer Block** | 2 | 2 | — |
-| **Magnetic Extension Wire** | 2 | 2 | — |
+| **Transfer Block** | 1 | 2 | — |
+| **Magnetic Extension Wire** | 1 | 2 | — |
 | **ICRobot Multifunctional Bluetooth Handle ( Preschool )** | — | — | — |
 
 
