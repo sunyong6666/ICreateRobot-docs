@@ -97,18 +97,17 @@ Solution:
    1. **Install the Mini RC Debugger Application:**
 
 Download and install the **Mini RC Debugger** software. [[Debugger Download Link](https://www.icrobot.com/www/cn-mobile/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICRobot%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84)]  
-
-                ![](img/failureanalysisandsolution02.png)
+![](img/failureanalysisandsolution02.png)
 
 After installation, open the debugger. Use a USB-C cable to connect the controller to the computer's COM port.   Click "Connect Device" and select the corresponding COM port.   The controller will beep, and the Home button will flash continuously, indicating a successful connection. The initial program will appear at the top of the interface.  
 
-     ![](img/failureanalysisandsolution03.png)
+![](img/failureanalysisandsolution03.png)
 
    2. **Set Controller Mode:**
 
 In the **Mini RC Debugger**, select the "ICBlocks" mode.   Click the "Set Type" button. The controller will beep again, indicating a successful mode switch.  
 
-       ![](img/failureanalysisandsolution04.png)
+![](img/failureanalysisandsolution04.png)
 
    3. **Test Controller Performance:**
 
