@@ -51,7 +51,6 @@
 3. The Coding board control firmware version problem, need to go to the firmware upgrade center for firmware upgrade. Refer to [the firmware update guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/03FirmwareUpgrade/02CodingBoardFirmwareUpgrade.html).
 
 
-
 ## Motor Block  
 ### **Issue:** The motor does not rotate despite proper connections.  
  **Solution:**
@@ -118,8 +117,6 @@ After switching modes, test various function buttons or joysticks. If the corres
    4. **Reconnect Device:**
 
 Press and hold the "T" button for 3s. When the Home button displays blue, the Bluetooth connection is successful. Refer to the [Bluetooth connection guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/04FeatureOverview/03BluetoothControllerFunction.html) for more details.  
-
-
 
 
 
