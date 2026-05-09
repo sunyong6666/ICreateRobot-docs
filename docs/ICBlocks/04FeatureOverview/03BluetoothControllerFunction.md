@@ -88,7 +88,7 @@ After a successful Bluetooth connection, the ICRobot Multi-function Bluetooth Ha
 
 
 ## Firmware Upgrade  
-[ICRobot Bluetooth Grip Firmware Upgrade](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/cn11at01iw3qwdqi/collaborator/join?token=pcaOueoPLfTUfY1N&source=doc_collaborator#%20《ICRobot%20Multifunctional%20Bluetooth%20Controller%20Firmware%20Upgrade》)
+[ICRobot Bluetooth Grip Firmware Upgrade](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/03FirmwareUpgrade/03ICRobotMultifunctionalBluetoothControllerFirmwareUpgrade.html)
 
 
 
