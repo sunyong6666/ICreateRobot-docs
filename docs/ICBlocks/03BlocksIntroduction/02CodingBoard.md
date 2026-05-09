@@ -53,7 +53,7 @@ The coding board is a screen-free coding platform based on ICBlocks series produ
 ## Firmware Upgrade  
  Please click the link to view the detailed steps to perform a firmware upgrade.
 
- [Coding Board Firmware Upgrade Tutorial Link](https://www.yuque.com/g/crystal-vzc6k/cfl3ix/sn1gzlp8eczwvmtg/collaborator/join?token=NJhFKsFmFvnJVNYm&source=doc_collaborator#%20《Coding%20Board%20Firmware%20Upgrade》)  
+ [Coding Board Firmware Upgrade Tutorial Link](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/03FirmwareUpgrade/02CodingBoardFirmwareUpgrade.html)  
 
 ## Version Notes  
 This document is intended for the new version of the ICBlocks coding board and is not suitable for the older version. The distinction between the new and old versions can be seen below: 
