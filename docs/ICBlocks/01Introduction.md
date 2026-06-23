@@ -30,7 +30,7 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 | Turn Left 90° Block | Motion Block | Stop Block | Loop 1 Time Block |
 |<img src="img1/Introduction42.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction43.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction44.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction45.png" style="width:120px;height:120px;object-fit:contain;"> |
 | Loop 2 Times Block | Loop 3 Times Block | Infinite Loop Block | Memory Module |
-| <img src="img1/Introduction46.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction47.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction48.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction49.png" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction46.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction47.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction48.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction49.png" style="width:200px;height:120px;object-fit:contain;"> |
 | Voice Block | Transfer Block | Magnetic Extension Wire | ICRobot Multifunctional Bluetooth Handle ( Preschool ) |
 
 
