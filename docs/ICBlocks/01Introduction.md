@@ -7,10 +7,10 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 
 
 ## Parts List
-| ![img1](img1/Introduction02.png) | <br/>![img1](img1/Introduction03.png) | <br/>   <img src="img1/Introduction04.png" style="max-width:100%;height:auto;"> | <br/>![](img1/Introduction05.png)         |
+|<img src="img1/Introduction02.png" style="max-width:100%;height:auto;"> |<img src="img1/Introduction03.png" style="max-width:100%;height:auto;"> | <img src="img1/Introduction04.png" style="max-width:100%;height:auto;"> |<img src="img1/Introduction05.png" style="max-width:100%;height:auto;">|
 | :---: | :---: | :---: | :---: |
 | Boxy Robot | Coding Board | Power Block | Motor Block |
-| ![](img1/Introduction06.png) | ![](img1/Introduction07.png) | ![](img1/Introduction08.png) | ![](img1/Introduction10.png) |
+|<img src="img1/Introduction06.png" style="max-width:100%;height:auto;">|<img src="img1/Introduction07.png" style="max-width:100%;height:auto;">|<img src="img1/Introduction08.png" style="max-width:100%;height:auto;">|<img src="img1/Introduction10.png" style="max-width:100%;height:auto;">|
 | Record Block | Expression Block | LED Block | Color LED Block |
 | ![](img1/Introduction09.png) | ![](img1/Introduction11.png) | ![](img1/Introduction12.png) | ![](img1/Introduction13.png) |
 | Photoelectric Block | Potentiometer Block | Gyro Block | Light Block |
