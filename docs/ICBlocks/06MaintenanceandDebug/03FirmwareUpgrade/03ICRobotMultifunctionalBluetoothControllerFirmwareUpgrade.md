@@ -8,7 +8,7 @@ Download and install the CH340 driver on your computer. Use the following links:
 1. **Windows Driver**：[https://www.wch.cn/download/CH341SER_EXE.html](https://www.wch.cn/download/CH341SER_EXE.html)
 2.  **Linux Driver**：[https://www.wch.cn/download/CH341SER_LINUX_ZIP.html](https://www.wch.cn/download/CH341SER_LINUX_ZIP.html)
 3.  **Mac Driver**：[https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html](https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html)
-4. ** Android Driver**：[https://www.wch.cn/download/CH341SER_ANDROID_ZIP.html](https://www.wch.cn/download/CH341SER_ANDROID_ZIP.html)
+4. **Android Driver**：[https://www.wch.cn/download/CH341SER_ANDROID_ZIP.html](https://www.wch.cn/download/CH341SER_ANDROID_ZIP.html)
 
 2.Hardware Preparation  
 
@@ -20,11 +20,11 @@ Download and install the CH340 driver on your computer. Use the following links:
 ### Upgrade Steps 
 | ![](img/ICRobotMultifunctionalBluetoothControllerFirmwareUpgrade03.gif) | ![](img/ICRobotMultifunctionalBluetoothControllerFirmwareUpgrade04.png) |
 | --- | --- |
-|  ? <font style="color:rgb(31, 31, 31);">Connect the ICRobot Multifunctional Bluetooth Controller to the computer using a USB-C cable.  </font> |  ?<font style="color:rgb(31, 31, 31);"> Open the firmware upgrade platform in Chrome or Microsoft Edge browser, and select the </font>**ICRobot Series**<font style="color:rgb(31, 31, 31);"> on the left side.  </font> |
+|  ① <font style="color:rgb(31, 31, 31);">Connect the ICRobot Multifunctional Bluetooth Controller to the computer using a USB-C cable.  </font> |  ② <font style="color:rgb(31, 31, 31);"> Open the firmware upgrade platform in Chrome or Microsoft Edge browser, and select the </font>**ICRobot Series**<font style="color:rgb(31, 31, 31);"> on the left side.  </font> |
 | ![](img/ICRobotMultifunctionalBluetoothControllerFirmwareUpgrade05.gif) | ![](img/ICRobotMultifunctionalBluetoothControllerFirmwareUpgrade06.gif) |
-| ③Locate the **Bluetooth Controller** on the right side, expand the drop-down menu to view the firmware upgrade options.   |  ? Select the firmware version to upgrade, click **Connect**, select the device's COM port, and wait for the connection to succeed.   |
+| ③Locate the **Bluetooth Controller** on the right side, expand the drop-down menu to view the firmware upgrade options.   |  ④ Select the firmware version to upgrade, click **Connect**, select the device's COM port, and wait for the connection to succeed.   |
 | ![](img/ICRobotMultifunctionalBluetoothControllerFirmwareUpgrade07.gif) | |
-|  ? Click **Upgrade**. Once the page displays "Upgrade Successful," restart the device to complete the upgrade.   | |
+|  ⑤ Click **Upgrade**. Once the page displays "Upgrade Successful," restart the device to complete the upgrade.   | |
 
 
 ## Local Upgrade  
