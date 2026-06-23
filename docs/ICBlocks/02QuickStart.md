@@ -7,7 +7,7 @@ The ICBlocks series offers a wide variety of blocks. To help you get started wit
 ![](img2/Introduction01.png)
 
 ### Parts Preparation:  
-| ![](img2/Introduction02.png)  | ![](img2/Introduction03.png)<br/>  | ![](img2/Introduction04.png)  | ![](img2/Introduction05.png)  |
+| < img src="img2/Introduction02.png" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction03.png" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction04.png" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction05.png" style="width:auto;height:120px;object-fit:contain;" > |
 | :---: | :---: | :---: | :---: |
 | Boxy Robot   ×1 | Caster Wheels   ×2 | Axles   ×2 | Wheels   ×2 |
 
@@ -15,22 +15,22 @@ The ICBlocks series offers a wide variety of blocks. To help you get started wit
 ### Assembly Steps  
 | Step1: Install the Axles   | |
 | :---: | --- |
-| ![](img2/Introduction06.png) | ![](img2/Introduction07.png) |
+|< img src="img2/Introduction06.png" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction07.png" style="width:auto;height:120px;object-fit:contain;" > |
 | Step2: Install the Wheels   | |
-| ![](img2/Introduction08.png) | ![](img2/Introduction09.png) |
+| < img src="img2/Introduction08.png" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction09.png" style="width:auto;height:120px;object-fit:contain;" > |
 | Step3: Install the Caster Wheels | |
-| ![](img2/Introduction10.png) | ![](img2/Introduction11.png) |
+| < img src="img2/Introduction10.png" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction11.png" style="width:auto;height:120px;object-fit:contain;" > |
 
 
 ## Logic Control - Quick Start  
 ### Effect Demonstration  
-| ![](img2/Introduction12.gif) | ![](img2/Introduction13.gif)   |
+|< img src="img2/Introduction12.gif" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction13.gif" style="width:auto;height:120px;object-fit:contain;" > |
 | :---: | :---: |
 | Voice-controlled Boxy Robot moves forward.   | Voice-controlled Boxy Robot moves backward.  |
 
 
 ### Parts Preparation  
-| ![](img2/Introduction13.png) | ![](img2/Introduction14.png) |
+|< img src="img2/Introduction13.png" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction14.png" style="width:auto;height:120px;object-fit:contain;" > |
 | :---: | :---: |
 | ICBlocks Boxy Robot   ×1 | Sound Block ×1 |
 
@@ -55,16 +55,16 @@ The two orange magnetic interfaces are labeled with “+” and “-”. When us
 + Connecting to the “+” interface: The Boxy Robot moves **backward** when sound is detected.
 + Connecting to the “-” interface: The Boxy Robot moves **forward** when sound is detected.
 
-| ![](img2/Introduction17.gif) | ![](img2/Introduction18.gif) |
+|< img src="img2/Introduction17.gif" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction18.gif" style="width:auto;height:120px;object-fit:contain;" > |
 | :---: | :---: |
 | **“-” Interface** | **Boxy Robot Moves Forward** | **“+” Interface** | **Boxy Robot Moves Backward** |
 
 
 ###  More Logic Control Scenarios  
-| ![](img2/Introduction19.gif)  | ![](img2/Introduction20.gif) |
+|< img src="img2/Introduction19.gif" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction20.gif" style="width:auto;height:120px;object-fit:contain;" > |
 | :---: | :---: |
 | Button Logic Control   | Tilt Logic Control   |
-| ![](img2/Introduction21.gif) | ![](img2/Introduction22.gif) |
+|< img src="img2/Introduction21.gif" style="width:auto;height:120px;object-fit:contain;" > | < img src="img2/Introduction22.gif" style="width:auto;height:120px;object-fit:contain;" > |
 | Line-following Robot   | Light-chashing Car   |
 
 
@@ -77,12 +77,12 @@ Build a robot by combining LEGO Duplo bricks, use the coding board to control it
 
 
 ### Parts Preparation  
-| ![](img2/Introduction24.png) | <br/><br/>![](img2/Introduction25.png)<br/><br/> | ![](img2/Introduction26.png)<br/><br/> |
+|< img src="img2/Introduction24.png" style="width:auto;height:120px;object-fit:contain;" > | <br/><br/>< img src="img2/Introduction25.png" style="width:auto;height:120px;object-fit:contain;" ><br/><br/> | < img src="img2/Introduction26.png" style="width:auto;height:120px;object-fit:contain;" ><br/><br/> |
 | :---: | :---: | :---: |
 | Boxy Robot ×1 | Coding Board×1 | Color LED Block×1 |
-| ![](img2/Introduction27.png)<br/> | ![](img2/Introduction28.png)<br/> | ![](img2/Introduction29.png)<br/> |
+|< img src="img2/Introduction27.png" style="width:auto;height:120px;object-fit:contain;" ><br/> | < img src="img2/Introduction28.png" style="width:auto;height:120px;object-fit:contain;" ><br/> | < img src="img2/Introduction29.png" style="width:auto;height:120px;object-fit:contain;" ><br/> |
 | One Step Forward Blocks ×2 | Turn Left 90° Blocks ×1 | Turn Right 90° Block×1 |
-| ![](img2/Introduction30.png)<br/> | ![](img2/Introduction31.png)<br/> | ![](img2/Introduction32.png)<br/> |
+|< img src="img2/Introduction30.png" style="width:auto;height:120px;object-fit:contain;" ><br/> | < img src="img2/Introduction31.png" style="width:auto;height:120px;object-fit:contain;" ><br/> | < img src="img2/Introduction32.png" style="width:auto;height:120px;object-fit:contain;" ><br/> |
 | Turn On the Light Block×1 |  Round Eye  ×1 |  Single-sided 4-hole Arcs  ×2 |
 
 
