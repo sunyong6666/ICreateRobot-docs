@@ -7,7 +7,7 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 
 
 ## Parts List
-| <img src="img1/Introduction02.png" style="width:100px;height:100px;object-fit:contain;"> | <img src="img1/Introduction03.png" style="width:auto;height:80px;object-fit:contain;"> | <img src="img1/Introduction04.png" style="width:100px;height:auto;object-fit:contain;"> | <img src="img1/Introduction05.png" style="width:100px;height:auto;object-fit:contain;"> |
+| <img src="img1/Introduction02.png" style="width:100px;height:100px;object-fit:contain;"> | <img src="img1/Introduction03.png" style="width:auto;height:60px;object-fit:contain;"> | <img src="img1/Introduction04.png" style="width:100px;height:auto;object-fit:contain;"> | <img src="img1/Introduction05.png" style="width:100px;height:auto;object-fit:contain;"> |
 | :---: | :---: | :---: | :---: |
 | Boxy Robot | Coding Board | Power Block | Motor Block |
 | <img src="img1/Introduction06.png" style="width:100px;height:100px;object-fit:contain;"> | <img src="img1/Introduction07.png" style="width:100px;height:100px;object-fit:contain;"> | <img src="img1/Introduction08.png" style="width:100px;height:100px;object-fit:contain;"> | <img src="img1/Introduction10.png" style="width:100px;height:100px;object-fit:contain;"> |
