@@ -7,7 +7,7 @@ The ICBlocks series offers a wide variety of blocks. To help you get started wit
 ![](img2/Introduction01.png)
 
 ### Parts Preparation:  
-| ![](img2/Introduction02.png)  | ![](img2/Introduction03.png)<br/>  | ![](img2/Introduction04.png)  | ![](img2/Introduction05.png)  |
+| ![](img2/Introduction02.png)  | ![](img2/Introduction03.png) | ![](img2/Introduction04.png)  | ![](img2/Introduction05.png)  |
 | :---: | :---: | :---: | :---: |
 | Boxy Robot   ×1 | Caster Wheels   ×2 | Axles   ×2 | Wheels   ×2 |
 
@@ -55,9 +55,9 @@ The two orange magnetic interfaces are labeled with “+” and “-”. When us
 + Connecting to the “+” interface: The Boxy Robot moves **backward** when sound is detected.
 + Connecting to the “-” interface: The Boxy Robot moves **forward** when sound is detected.
 
-| ![](img2/Introduction17.gif) | ![](img2/Introduction18.gif) |
+| ![](img2/Introduction12.gif) | ![](img2/Introduction18.gif) |
 | :---: | :---: |
-| **“-” Interface** | **Boxy Robot Moves Forward** | **“+” Interface** | **Boxy Robot Moves Backward** |
+| **“-” Interface Boxy Robot Moves Forward** | **“+” Interface Boxy Robot Moves Backward** |
 
 
 ###  More Logic Control Scenarios  
