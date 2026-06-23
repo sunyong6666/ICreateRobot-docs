@@ -24,7 +24,7 @@ The ICBlocks series offers a wide variety of blocks. To help you get started wit
 
 ## Logic Control - Quick Start  
 ### Effect Demonstration  
-| <img src="img2/Introduction12.gif" style="width:120px;height:120px;object-fit:contain;"> | <img src="img2/Introduction13.gif" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img2/Introduction12.gif" style="width:auto;height:120px;object-fit:contain;"> | <img src="img2/Introduction13.gif" style="width:auto;height:120px;object-fit:contain;"> |
 | :---: | :---: |
 | Voice-controlled Boxy Robot moves forward.   | Voice-controlled Boxy Robot moves backward.  |
 
