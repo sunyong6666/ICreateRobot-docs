@@ -7,30 +7,30 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 
 
 ## Parts List
-| <img src="img1/Introduction02.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction03.png" style="max-width:120px;max-height:120px;"> | <img src="img1/Introduction04.png" style="width:120px;height:200px;object-fit:contain;"> | <img src="img1/Introduction05.png" style="width:200px;height:90px;object-fit:contain;"> |
+| <img src="img1/Introduction02.png" width:"150"> | <img src="img1/Introduction03.png" width:"150"> | <img src="img1/Introduction04.png" width:"150"> | <img src="img1/Introduction05.png" width:"150"> |
 | :---: | :---: | :---: | :---: |
 | Boxy Robot | Coding Board | Power Block | Motor Block |
-| <img src="img1/Introduction06.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction07.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction08.png" style="width:120px;height:120px;object-fit:contain;" > | <img src="img1/Introduction10.png" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction06.png" width:"150"> | <img src="img1/Introduction07.png" width:"150"> | <img src="img1/Introduction08.png" width:"150"> | <img src="img1/Introduction10.png" width:"150"> |
 | Record Block | Expression Block | LED Block | Color LED Block |
-| <img src="img1/Introduction09.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction11.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction12.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction13.png" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction09.png" width:"150"> | <img src="img1/Introduction11.png" width:"150"> | <img src="img1/Introduction12.png" width:"150"> | <img src="img1/Introduction13.png" width:"150"> |
 | Photoelectric Block | Potentiometer Block | Gyro Block | Light Block |
-| <img src="img1/Introduction14.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction15.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction16.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction17.png" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction14.png" width:"150"> | <img src="img1/Introduction15.png" width:"150"> | <img src="img1/Introduction16.png" width:"150"> | <img src="img1/Introduction17.png" width:"150"> |
 | Sound Block | Button Block | Sad Block | Angry Block |
-| <img src="img1/Introduction18.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction19.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction20.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction21.png" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction18.png" width:"150"> | <img src="img1/Introduction19.png" width:"150"> | <img src="img1/Introduction20.png" width:"150"> | <img src="img1/Introduction21.png" width:"150"> |
 | Happy Block | Smile Block | Cry Block | Fireengine Siren Block |
-| <img src="img1/Introduction22.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction23.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction24.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction25.png" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction22.png" width:"150"> | <img src="img1/Introduction23.png" width:"150"> | <img src="img1/Introduction24.png" width:"150"> | <img src="img1/Introduction25.png" width:"150"> |
 | Police Car Siren Block |     Phone Ring Block | Train Whistle Block | Car Whistle Block |
-| <img src="img1/Introduction26.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction27.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction28.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction29.png" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction26.png" width:"150"> | <img src="img1/Introduction27.png" width:"150"> | <img src="img1/Introduction28.png" width:"150"> | <img src="img1/Introduction29.png" width:"150"> |
 | Play Recording Block | Start Motor Block | Stop Motor Block | Turn On the Light Block |
-| <img src="img1/Introduction30.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction31.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction32.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction33.png" style="width:120px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction30.png" width:"150"> | <img src="img1/Introduction31.png" width:"150"> | <img src="img1/Introduction32.png" width:"150"> | <img src="img1/Introduction33.png" width:"150"> |
 | Turn Off the Light Block | One Step Forward Block | Forward Until Block | Two Steps Forward Block |
-|<img src="img1/Introduction34.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction35.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction36.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction37.png" style="width:120px;height:120px;object-fit:contain;"> |
+|<img src="img1/Introduction34.png" width:"150"> | <img src="img1/Introduction35.png" width:"150"> | <img src="img1/Introduction36.png" width:"150"> | <img src="img1/Introduction37.png" width:"150"> |
 | Step Back Block | Turn Right 90° Block | Turn Right Until Block | Turn Left Until Block |
-|<img src="img1/Introduction38.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction39.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction40.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction41.png" style="width:120px;height:120px;object-fit:contain;"> |
+|<img src="img1/Introduction38.png" width:"150"> | <img src="img1/Introduction39.png" width:"150"> | <img src="img1/Introduction40.png" width:"150"> | <img src="img1/Introduction41.png" width:"150"> |
 | Turn Left 90° Block | Motion Block | Stop Block | Loop 1 Time Block |
-|<img src="img1/Introduction42.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction43.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction44.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction45.png" style="width:120px;height:120px;object-fit:contain;"> |
+|<img src="img1/Introduction42.png" width:"150"> | <img src="img1/Introduction43.png" width:"150"> | <img src="img1/Introduction44.png" width:"150"> | <img src="img1/Introduction45.png" width:"150"> |
 | Loop 2 Times Block | Loop 3 Times Block | Infinite Loop Block | Memory Module |
-| <img src="img1/Introduction46.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction47.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction48.png" style="width:120px;height:120px;object-fit:contain;"> | <img src="img1/Introduction49.png" style="width:200px;height:120px;object-fit:contain;"> |
+| <img src="img1/Introduction46.png" width:"150"> | <img src="img1/Introduction47.png" width:"150"> | <img src="img1/Introduction48.png" width:"150"> | <img src="img1/Introduction49.png" width:"150"> |
 | Voice Block | Transfer Block | Magnetic Extension Wire | ICRobot Multifunctional Bluetooth Handle ( Preschool ) |
 
 
