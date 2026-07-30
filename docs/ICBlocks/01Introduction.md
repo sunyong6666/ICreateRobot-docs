@@ -35,55 +35,57 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 
 
 ## ICBlock Series of Sets
-| Item |   ICBlocks Preschool Smart Coding Block Set |  ICBlocks Preschool Smart Coding Block Set（Campus）  | ICBlocks Preschool Smart Coding Block Set <br/>（Customized）Tailored to Your Needs |
-| :---: | :---: | :---: | :---: |
-| **Boxy Robot** | 1 | 1 | 1 |
-| **Coding Board** | 1 | 1 | 1 |
-| **Power Block** | 1 | 1 | — |
-| **Motor Block** | 1 | 1 | — |
-| **Record Block** | 1 | 1 | — |
-| **Expression Block** | 1 | — | — |
-| **LED Block** | 1 | 1 | — |
-| **Color LED Block** | 1 | 1 | — |
-| **Photoelectric Block** | 2 | 2 | — |
-| **Potentiometer Block** | 1 | 1 | — |
-| **Gyro Block** | 1 | 1 | 1 |
-| **Light Block** | 1 | — | — |
-| **Sound Block** | 1 | 1 | — |
-| **Button Block** | 1 | 1 | — |
-| **Happy Block** | 1 | — | — |
-| **Sad Block** | 1 | — | — |
-| **Cry Block** | — | — | — |
-| **Smile Block** | — | — | — |
-| **Angry Block** | — | — | — |
-| **Play Recording Block** | 1 | 1 | — |
-| **Police Car Siren Block** | — | — | — |
-| **Phone Ring Block** | — | — | — |
-| **Fireengine Siren Block** | — | — | — |
-| **Car Whistle Block** | 1 | — | — |
-| **Train Whistle Block** | — | — | — |
-| **Forward Until Block** | 1 | — | — |
-| **One Step Forward Block** | 1 | 3 | 2 |
-| **Turn Left Until Block** | — | — | — |
-| **Turn Left 90° Block** | 2 | 2 | 2 |
-| **Turn Right Until Block** | 1 | — |  |
-| **Turn Right 90° Block** | 2 | 2 | 2 |
-| **Two Steps Forward Block** | 1 | 1 | 2 |
-| **Step Back Block** | 1 | 1 | — |
-| **Motion Block** | 1 | 1 | 1 |
-| **Stop Block** | 1 | 1 | — |
-| **Start Motor Block** | 1 | — | — |
-| **Stop Motor Block** | 1 | — | — |
-| **Turn On the Light Block** | 1 | 1 | — |
-| **Turn Off the Light Block** | 1 | 1 | — |
-| **Loop 1 Time Block** | — | 1 | 1 |
-| **Loop 2 Times Block** | — | 1 | 1 |
-| **Loop 3 Times Block** | — | 1 | 1 |
-| **Infinite Loop Block** | — | 1 | 1 |
-| **Memory Module** | — | — | — |
-| **Voice Block** | — | — | — |
-| **Transfer Block** | 1 | 2 | — |
-| **Magnetic Extension Wire** | 1 | 2 | — |
-| **ICRobot Multifunctional Bluetooth Handle ( Preschool )** | — | — | — |
+| Item\<font style="color:rgb(0, 0, 0);">ICBlocks Preschool Smart Coding Block Set</font> | **Standard Version**<br/> | **School Version** | **Amazon Version** | ** International Version  ** | ** **_Customized Version_<br/>**(Example based on any version)   *******_(Customized Version) Customizable according to requirements_**   ** |
+| :---: | --- | --- | --- | --- | :---: |
+| **Boxy Robot** | 1 | 1 | 1 | 1 | 1 |
+| **Coding Board** | 1 | 1 | 1 | 1 | 1 |
+| **Power Block** | 1 | 1 | — | — | — |
+| **Motor Block** | 1 | 1 | — | — | — |
+| **Record Block** | 1 | 1 | — | 1 | — |
+| **Expression Block** | 1 | — | — | 1 | — |
+| **LED Block** | 1 | 1 | — | — | — |
+| **Color LED Block** | 1 | 1 | — | 1 | — |
+| **Photoelectric Block** | 2 | 2 | — | 2 | — |
+| **Potentiometer Block** | 1 | 1 | 1 | 1 | — |
+| **Gyro Block** | 1 | 1 | 1 | 1 | 1 |
+| **Light Block** | 1 | — | — | 1 | — |
+| **Sound Block** | 1 | 1 | — | 1 | — |
+| **Button Block** | 1 | 1 | — | 1 | — |
+| **Happy Block** | 1 | — | — | 1 | — |
+| **Sad Block** | 1 | — | — | 1 | — |
+| **Cry Block** | — | — | — | — | — |
+| **Smile Block** | — | — | — | — | — |
+| **Angry Block** | — | — | — | — | — |
+| **Play Recording Block** | 1 | — | — | 1 | — |
+| **Police Car Siren Block** | — | — | — | — | — |
+| **Phone Ring Block** | — | — | — | — | — |
+| **Fireengine Siren Block** | — | — | — | — | — |
+| **Car Whistle Block** | 1 | — | — | 1 | — |
+| **Train Whistle Block** | — | — | — | — | — |
+| **Forward Until Block** | 1 | — | — | 1 | — |
+| **One Step Forward Block** | 2 | 3 | 2 | 2 | 2 |
+| **Turn Left Until Block** | — | — | — | — | — |
+| **Turn Left 90° Block** | 2 | 2 | 1 | 1 | 2 |
+| **Turn Right Until Block** | 1 | — | — | — |  |
+| **Turn Right 90° Block** | 2 | 2 | 1 | 1 | 2 |
+| **Two Steps Forward Block** | 1 | 1 | 1 | 1 | 2 |
+| **Step Back Block** | 1 | 1 | — | 1 | — |
+| **Motion Block** | 1 | 1 | 1 | 1 | 1 |
+| **Stop Block** | 1 | 1 | — | 1 | — |
+| **Start Motor Block** | 1 | — | — | — | — |
+| **Stop Motor Block** | 1 | — | — | — | — |
+| **Turn On the Light Block** | 1 | 1 | — | 1 | — |
+| **Turn Off the Light Block** | 1 | 1 | — | 1 | — |
+| **Loop 1 Time Block** | — | 1 | — | — | 1 |
+| **Loop 2 Times Block** | — | 1 | — | — | 1 |
+| **Loop 3 Times Block** | — | 1 | — | — | 1 |
+| **Infinite Loop Block** | — | 1 | — | — | 1 |
+| **Memory Module** | — | — | — | — | — |
+| **Voice Block** | — | — | — | — | — |
+| **Transfer Block** | 1 | 2 | — | 1 | — |
+| **Magnetic Extension Wire** | 1 | 2 | — | 1 | — |
+| **ICRobot Multifunctional Bluetooth Handle ( Preschool )** | — | — | — | — | — |
+
+
 
 
