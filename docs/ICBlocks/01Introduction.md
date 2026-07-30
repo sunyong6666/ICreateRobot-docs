@@ -35,7 +35,7 @@ The ICBlocks series coding blocks are educational robotic products designed spec
 
 
 ## ICBlock Series of Sets
-| Item\<font style="color:rgb(0, 0, 0);">ICBlocks Preschool Smart Coding Block Set</font> | **Standard Version**<br/> | **School Version** | **Amazon Version** | ** International Version  ** | ** **_Customized Version_<br/>**(Example based on any version)   *******_(Customized Version) Customizable according to requirements_**   ** |
+| Item\ICBlocks Preschool Smart Coding Block Set | Standard Version  | School Version | Amazon Version | International Version |   Customized Version (Example based on any version)   (Customized Version) Customizable according to requirements |
 | :---: | --- | --- | --- | --- | :---: |
 | **Boxy Robot** | 1 | 1 | 1 | 1 | 1 |
 | **Coding Board** | 1 | 1 | 1 | 1 | 1 |
