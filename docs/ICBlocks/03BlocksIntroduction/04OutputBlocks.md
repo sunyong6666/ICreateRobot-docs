@@ -51,7 +51,7 @@ The Expression Block displays specified content and supports two display modes: 
 | Expression Display Mode   |  Count Display Mode   |  Button Illustration   |
 | --- | :---: | --- |
 | ![](img/OutputBlocks08.png) | <font style="color:#DF2A3F;background-color:#FBDE28;"></font>![](img/OutputBlocks09.png) | ![](img/OutputBlocks10.png) |
-| Built-in 5 expressions: happy, sad, crying, smiling, and angry.   | <font style="color:#000000;"> Displays numbers from 0 to 99.  </font>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | In the expression display mode, the button switches expressions.<br/>In the count display mode, the button switches numbers. |
+| Built-in 5 expressions: happy, sad, crying, smiling, and angry.   | <font style="color:#000000;"> Displays numbers from 0 to 99.  </font>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | In the expression display mode, the button switches expressions.<br/>In the count display mode, the button switches numbers. |
 
 
 ###  Structure  
