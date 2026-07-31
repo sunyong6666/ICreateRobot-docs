@@ -8,6 +8,7 @@ Hardware Update Log
   
    01PowerBlockUpdateLog.md
    02ProgrammingRemoteControllerChangelog.md
+   03ControllerFirmwareChangelog.md
 
 
 
