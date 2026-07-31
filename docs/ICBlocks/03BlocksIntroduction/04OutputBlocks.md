@@ -8,12 +8,12 @@ The Motor Block provides rotational power. The motor houses an N20 gear motor th
 ###  Structure
 ![](img/OutputBlocks02.png)
 
-|  No.   |  Name   |  Description   | |
-| :---: | :---: | :---: | --- |
-| **①** | **Building Structure** |  Compatible with LEGO Duplo series building blocks   | |
-| **②** | **Power Output Shaft Connector** | Outputs power from the built-in motor and connects with the building structure   | |
-| **③** | **Magnetic Connector Cable** |  Connects to the magnetic port, transmitting signals   | |
-| **④** | **Magnetic Suction Base** | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | |
+|  No.   |  Name   |  Description   | 
+| :---: | :---: | :---: |
+| **①** | **Building Structure** |  Compatible with LEGO Duplo series building blocks   | 
+| **②** | **Power Output Shaft Connector** | Outputs power from the built-in motor and connects with the building structure   | 
+| **③** | **Magnetic Connector Cable** |  Connects to the magnetic port, transmitting signals   | 
+| **④** | **Magnetic Suction Base** | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | 
 
 
 ### Specifications
@@ -55,15 +55,19 @@ The Expression Block displays specified content and supports two display modes: 
 
 
 ###  Structure  
+
+
 |![](img/OutputBlocks11.png)|![](img/OutputBlocks12.png)|
 | :---: | :---: |
+|   |   |
 
-|  No.   |  Name   | **Description** | |
-| :---: | :---: | :---: | --- |
-| **①** | Button   | Switch  | |
-| **②** |   Power Indicator  |  Indicates if the block is successfully connected to the Boxy Robot   | |
-| **③** |  Screen   | Displays content   | |
-| **④** | Magnetic Suction Base | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | |
+
+|  No. |  Name | Description | 
+| --- | :---: | --- |
+| **①** | Button   | Switch  | 
+| **②** |   Power Indicator  |  Indicates if the block is successfully connected to the Boxy Robot   | 
+| **③** |  Screen   | Displays content   | 
+| **④** | Magnetic Suction Base | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | 
 
 
 ### Specifications
@@ -96,18 +100,22 @@ The Expression Block displays specified content and supports two display modes: 
 The Record Block contains both a speaker and a microphone, capable of playing recorded sounds and 6 built-in sounds.  
 
 ### Structure  
+
+
 |![](img/OutputBlocks18.png)|![](img/OutputBlocks19.png)|
 | :---: | :---: |
+|   |   |
 
-|  No. | Name   | Description   | |
-| :---: | :---: | :---: | --- |
-| **①** | ⚪ Button   | Press to switch to the next sound; cycles back to the first one at the end   | |
-| **②** | 🔈 Button   | Play the current sound source   | |
-| **③** |  🎙 Button   | Press and hold to record sound   | |
-| **④** |   Power Indicator   |  Indicates if the block is successfully connected to the Boxy Robot   | |
-| **⑤** | Speaker & Sound Hole   | The speaker hole for sound output   | |
-| **⑥** | Microphone & Pickup Hole   | The microphone hole for sound recording   | |
-| **⑦** | Magnetic Suction Base | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | |
+
+|  No. |  Name | Description | 
+| :---: | :---: | :---: | 
+| **①** | ⚪ Button   | Press to switch to the next sound; cycles back to the first one at the end   |
+| **②** | 🔈 Button   | Play the current sound source   | 
+| **③** |  🎙 Button   | Press and hold to record sound   | 
+| **④** |   Power Indicator   |  Indicates if the block is successfully connected to the Boxy Robot   | 
+| **⑤** | Speaker & Sound Hole   | The speaker hole for sound output   | 
+| **⑥** | Microphone & Pickup Hole   | The microphone hole for sound recording   | 
+| **⑦** | Magnetic Suction Base | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | 
 
 
 ### Specifications
@@ -139,6 +147,7 @@ The Record Block contains both a speaker and a microphone, capable of playing re
 
 |![](img/OutputBlocks24.png)|![](img/OutputBlocks25.png)|
 | :---: | :---: |
+|  |  |
 
 ### Introduction
 The LED Block emits white light.  
@@ -150,11 +159,11 @@ The Color LED Block emits alternating flashing colored lights.
 | ![](img/OutputBlocks26.png) | ![](img/OutputBlocks27.png) | ![](img/OutputBlocks28.png) |
 
 
-|  No.   |  Name   |  Description   | |
-| :---: | :---: | :---: | --- |
-| **①** | Transparent Case   |  Protects the internal LED and electronic components   | |
-| **②** | Transparent Case   |  Protects the internal LED and electronic components   | |
-| **③** | Magnetic Suction Base | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | |
+|  No.  |  Name  |  Description  | 
+| :---: | :---: | :---: | 
+| **①** | Transparent Case   |  Protects the internal LED and electronic components   | 
+| **②** | Transparent Case   |  Protects the internal LED and electronic components   | 
+| **③** | Magnetic Suction Base | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | 
 
 
 ###  Specifications
