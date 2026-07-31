@@ -51,11 +51,12 @@ The Expression Block displays specified content and supports two display modes: 
 | Expression Display Mode   |  Count Display Mode   |  Button Illustration   |
 | --- | :---: | --- |
 | ![](img/OutputBlocks08.png) | <font style="color:#DF2A3F;background-color:#FBDE28;"></font>![](img/OutputBlocks09.png) | ![](img/OutputBlocks10.png) |
-| Built-in 5 expressions: happy, sad, crying, smiling, and angry.   | <font style="color:#000000;"> Displays numbers from 0 to 99.  </font> | In the expression display mode, the button switches expressions.<br/>In the count display mode, the button switches numbers. |
+| Built-in 5 expressions: happy, sad, crying, smiling, and angry.   | <font style="color:#000000;"> Displays numbers from 0 to 99.  </font>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | In the expression display mode, the button switches expressions.<br/>In the count display mode, the button switches numbers. |
 
 
 ###  Structure  
-![](img/OutputBlocks11.png)![](img/OutputBlocks12.png)
+|![](img/OutputBlocks11.png)|![](img/OutputBlocks12.png)|
+| :---: | :---: |
 
 |  No.   |  Name   | **Description** | |
 | :---: | :---: | :---: | --- |
@@ -95,7 +96,8 @@ The Expression Block displays specified content and supports two display modes: 
 The Record Block contains both a speaker and a microphone, capable of playing recorded sounds and 6 built-in sounds.  
 
 ### Structure  
-![](img/OutputBlocks18.png)![](img/OutputBlocks19.png)
+|![](img/OutputBlocks18.png)|![](img/OutputBlocks19.png)|
+| :---: | :---: |
 
 |  No. | Name   | Description   | |
 | :---: | :---: | :---: | --- |
@@ -135,7 +137,8 @@ The Record Block contains both a speaker and a microphone, capable of playing re
 ## LED Block & Color LED Block
 
 
-![](img/OutputBlocks24.png)![](img/OutputBlocks25.png)
+|![](img/OutputBlocks24.png)|![](img/OutputBlocks25.png)|
+| :---: | :---: |
 
 ### Introduction
 The LED Block emits white light.  
@@ -167,7 +170,7 @@ The Color LED Block emits alternating flashing colored lights.
 | **Connection Method** | Magnetic  |
 
 
-| **Item** | 描述 |
+| **Item** | **Description** |
 | :---: | :---: |
 | **Name** | ICBlocks-Color LED Block |
 | **Code** | <font style="color:#000000;">B0010013</font> |
