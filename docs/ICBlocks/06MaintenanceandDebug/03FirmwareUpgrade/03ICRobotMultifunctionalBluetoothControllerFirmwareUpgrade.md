@@ -15,11 +15,11 @@ Download and install the CH340 driver on your computer. Use the following links:
    
 5.  **Mac Driver**：
 
- ![](img/Xiao3.png)
+ ![](img/Xiao4.png)
    
 7. **Android Driver**：
 
- ![](img/Xiao4.png)
+ ![](img/Xiao3.png)
 
 2.Hardware Preparation  
 
