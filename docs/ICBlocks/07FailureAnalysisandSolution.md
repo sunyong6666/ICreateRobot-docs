@@ -75,7 +75,7 @@
 **Solution ?**
 
 1. Calibrate the joystick:  
-    1. While powered on, press and hold the  ?- ? and  ?+ ? buttons simultaneously. The Home button will flash blue, indicating debug mode.  
+    1. While powered on, press and hold the  '- ' and  '+ ' buttons simultaneously. The Home button will flash blue, indicating debug mode.  
     2. Rotate the left and right joysticks in a 360° motion 3-4 times.  
     3.  Turn off the device.  
     4. Power it back on to resume normal functionality.  
