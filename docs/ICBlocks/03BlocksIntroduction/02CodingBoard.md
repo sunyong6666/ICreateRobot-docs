@@ -19,7 +19,7 @@ The ICBlocks coding board is a screen-free coding platform based on the ICBlocks
 | **④** | Bluetooth Status Indicator   | A steady light indicates that Bluetooth is connected; flashing indicates Bluetooth is not connected.   |
 | **⑤** | Start Button   | 1.  Start the program:  <br/> Click the start button to execute the program from left to right.  <br/>2. Skip current instruction:  <br/>During program execution, click the start button to skip the current instruction block and move to the next one.  <br/>3. Enter debug mode：<br/>In the off state, press and hold the start button, then press the power switch for 1s to turn it on and enter debug mode. The coding board can then be connected and adjusted via ICBlocks debugging software.   |
 | **⑥** | Reset Button   | In the on state, click the reset button to unbind from the current Boxy Robot via Bluetooth, allowing for a new search and connection to another Boxy Robot.   |
-| **⑦** | USB-C Port |  Used for charging the coding board and firmware upgrades.   |
+| **⑦** | USB-C Port |  Used for charging the coding board and firmware upgrades.<br/>Warning: Do not leave the device charging unattended overnight.   |
 
 
 ## Specifications  
@@ -56,7 +56,7 @@ The coding board is a screen-free coding platform based on ICBlocks series produ
  [Coding Board Firmware Upgrade Tutorial Link](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/03FirmwareUpgrade/02CodingBoardFirmwareUpgrade.html)  
 
 ## Version Notes  
-This document is intended for the new version of the ICBlocks coding board and is not suitable for the older version. The distinction between the new and old versions can be seen below: 
+**This document is intended for the new version of the ICBlocks coding board and is not suitable for the older version.** The distinction between the new and old versions can be seen below: 
 
 | **New Version Coding Board** | **Old Version Coding Board** |
 | :---: | :---: |
