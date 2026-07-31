@@ -16,7 +16,7 @@ While the coding board is turned off, hold the start button and press the power 
 ## Magnetic Connector Testing 
 |![](img/codingboard08.gif)|![](img/codingboard09.gif)|
 | :---: | :---: |
-|   |   |
+|   |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 + Connect the gyro block to the eight magnetic interfaces one by one.
 + Check the "Raw ID Values" displayed for each interface. Normal values range from 360 to 370.
@@ -27,7 +27,7 @@ While the coding board is turned off, hold the start button and press the power 
 ## Spraying Cleaner and ushing Probes  
 | ![](img/codingboard10.gif) | ![](img/codingboard11.gif) |
 | :---: | :---: |
-| **Correct:** Spray directly on the pogo pin metal probes. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | **Incorrect:** Avoid spraying on strong magnets or plastic components.  |
+| **Correct:** Spray directly on the pogo pin metal probes. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Incorrect:** Avoid spraying on strong magnets or plastic components.  |
 
 
 1. Shake the precision electrical cleaner canister evenly to mix the contents.
