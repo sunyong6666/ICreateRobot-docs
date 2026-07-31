@@ -2,13 +2,13 @@
 ## Preparation  
 | ![](img/blockscleaning01.png)| ![](img/blockscleaning02.png)| ![](img/blockscleaning03.png)| ![](img/blockscleaning04.png)| ![](img/blockscleaning05.png)|
 | :---: | :---: | :---: | :---: | :---: |
-| Motor Block |  Boxy Robot   |  Debugging Software   |  Precision Electrical Cleaner |  Hard-bristle Circuit Cleaning Brush   |
+| Motor Block&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  Boxy Robot  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  Debugging Software &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  Precision Electrical Cleaner |  Hard-bristle Circuit Cleaning Brush   |
 
 
 ## Bluetooth Connection Debugging Software
 | ![](img/blockscleaning06.jpg) | ![](img/blockscleaning07.jpg) |
 | :---: | :---: |
-| Bluetooth Connection | Start Debugging |
+| Bluetooth Connection | Start Debugging &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 
 Establish a Bluetooth connection between the Boxy Robot and the debugging software. Click the **"Boxy Robot Debugging Mode"** and then the **"Start Debugging"** to view real-time data from the four magnetic interfaces.
@@ -25,7 +25,7 @@ Establish a Bluetooth connection between the Boxy Robot and the debugging softwa
 ## Spraying Cleaner and Brushing Copper Contact Points
 | ![](img/blockscleaning09.gif) | ![](img/blockscleaning10.gif) |
 | :---: | :---: |
-| **Correct:** Spray the copper contact points. | **Incorrect:**  Avoid spraying on strong magnets.  |
+| **Correct:** Spray the copper contact points.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Incorrect:**  Avoid spraying on strong magnets.  |
 
 
 + Shake the cleaner can evenly to ensure proper mixing.
