@@ -39,7 +39,7 @@ By directly connecting the record block, expression block, LED block (or color L
 
 | ![](img/PowerBlock03.gif)<br/> | ![](img/PowerBlock04.gif)<br/>  | ![](img/PowerBlock05.gif)<br/>  | ![](img/PowerBlock06.gif)<br/>  |
 | :---: | :---: | :---: | :---: |
-|  Play sound  | Display expressions   | Illuminate LED light | Rotate motor   |
+|  Play sound&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Display expressions   | Illuminate LED light | Rotate motor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |
 
 
 ## Version Notes  
