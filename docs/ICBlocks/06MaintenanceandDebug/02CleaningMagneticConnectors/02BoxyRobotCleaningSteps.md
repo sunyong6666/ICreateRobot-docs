@@ -15,9 +15,9 @@ Establish a Bluetooth connection between the Boxy Robot and the debugging softwa
 ## Magnetic Connector Testing  
 
 
-![](img/boxrobot08.gif)
-
-![](img/boxrobot09.gif)
+|![](img/boxrobot08.gif)|![](img/boxrobot09.gif)|
+| :---: | :---: |
+|   |   |
 
 Connect the Gyro Block sequentially to the four magnetic connectors.   
 
