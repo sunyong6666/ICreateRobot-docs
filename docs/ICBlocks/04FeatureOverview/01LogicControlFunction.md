@@ -22,7 +22,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 ### Button-Controlled Actuator Functions  
 | ![](img/LogicControlFunction07.gif) | ![](img/LogicControlFunction08.gif)  |
 | :---: | :---: |
-| Button-controlled LED Block   | Button-controlled Record Block |
+| Button-controlled LED Block &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Button-controlled Record Block |
 | ![](img/LogicControlFunction09.gif) | ![](img/LogicControlFunction10.gif) |
 | Button-controlled Motor | Button-controlled Expression Block  |
 
@@ -30,7 +30,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 ### Sound-Controlled Actuator Functions  
 | ![](img/LogicControlFunction11.gif) | ![](img/LogicControlFunction12.gif) |
 | :---: | :---: |
-| Sound-controlled LED Block | Sound-controlled Record Block |
+| Sound-controlled LED Block &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Sound-controlled Record Block |
 | ![](img/LogicControlFunction13.gif) | ![](img/LogicControlFunction14.gif) |
 | Sound-controlled Motor | Sound-controlled Expression Block  |
 
@@ -38,7 +38,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 ### Light Block Controlled Actuator Functions  
 | ![](img/LogicControlFunction15.gif) | ![](img/LogicControlFunction17.gif)  |
 | :---: | :---: |
-|  Light-sensitive controlled LED Block   | Light-sensitive controlled Record Block  |
+|  Light-sensitive controlled LED Block &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Light-sensitive controlled Record Block  |
 | ![](img/LogicControlFunction18.gif) | ![](img/LogicControlFunction19.gif)  |
 |  Light-sensitive controlled Motor   | Light-sensitive controlled Expression Block   |
 
@@ -46,7 +46,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 ### Photoelectric-Controlled Actuator Functions  
 | ![](img/LogicControlFunction20.gif) | ![](img/LogicControlFunction21.gif) |
 | :---: | :---: |
-| Photoelectric-controlled LED Block  | Photoelectric-controlled Record Block |
+| Photoelectric-controlled LED Block &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Photoelectric-controlled Record Block |
 | ![](img/LogicControlFunction22.gif) | ![](img/LogicControlFunction23.gif) |
 | Photoelectric-controlled Motor | Photoelectric-controlled Expression Block |
 
@@ -54,7 +54,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 ### Potentiometer-Controlled Actuator Functions  
 | ![](img/LogicControlFunction24.gif) | ![](img/LogicControlFunction25.gif) |
 | :---: | :---: |
-| Potentiometer-controlled LED Block | Potentiometer-controlled Record Block |
+| Potentiometer-controlled LED Block&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Potentiometer-controlled Record Block |
 | ![](img/LogicControlFunction26.gif) | ![](img/LogicControlFunction27.gif) |
 | Potentiometer-controlled Motor | Potentiometer-controlled Expression Block |
 
@@ -62,7 +62,7 @@ When the Boxy Robot is powered on and no Bluetooth connection is established, it
 ### Gyro -Controlled Actuator Functions  
 | ![](img/LogicControlFunction28.gif) | ![](img/LogicControlFunction29.gif) |
 | :---: | :---: |
-| Gyro -Controlled LED Block | Gyro -Controlled Record Block |
+| Gyro -Controlled LED Block &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Gyro -Controlled Record Block |
 | ![](img/LogicControlFunction30.gif) | ![](img/LogicControlFunction31.gif) |
 | Gyro -Controlled Motor | Gyro -Controlled Expression Block |
 
