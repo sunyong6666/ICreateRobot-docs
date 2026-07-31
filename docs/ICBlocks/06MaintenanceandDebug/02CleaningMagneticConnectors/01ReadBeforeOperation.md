@@ -7,7 +7,7 @@ All electronic blocks in the ICBlocks series communicate through magnetic contac
 ## Structure of the Magnetic Male Port  
 ![](img/ReadBeforeOperation01.png)
 
-| **No.** | **Name ** | **Description ** |
+| **No.** | **Name** | **Description** |
 | :---: | :---: | --- |
 |  ? |  Pogo Pin Spring Probes   | Each magnetic male port has four spring probes: two for power and two for signals.   |
 |  ? |  Strong Magnets   | Each magnetic male port has two strong magnets for attachment but not for signal transmission.   |
@@ -20,11 +20,11 @@ Based on the structural diagram, power, and signal transmission occur through th
 ## Structure of the Magnetic Female Port  
 ![](img/ReadBeforeOperation02.png)
 
-| **No.** | **Name ** | **Description ** |
+| **No.** | **Name** | **Description** |
 | :---: | :---: | --- |
-|  ? | Copper Contact Points   | Each magnetic female port has four copper contact points: two for power and two for signals.   |
-|  ? |  Strong Magnets   | Each magnetic female port has two strong magnets for attachment but not for signal transmission.   |
-|  ? |  Injection-molded   | The housing that secures the spring probes and strong magnets.   |
+|  ① | Copper Contact Points   | Each magnetic female port has four copper contact points: two for power and two for signals.   |
+|  ② |  Strong Magnets   | Each magnetic female port has two strong magnets for attachment but not for signal transmission.   |
+| ③ |  Injection-molded   | The housing that secures the spring probes and strong magnets.   |
 
 
 ### Cleaning Instructions for Magnetic Female Port 
@@ -51,7 +51,7 @@ Based on the structural diagram, power, and signal transmission occur through th
 
 To ensure effective cleaning of the Boxy Robot's magnetic connectors, use the ICBlocks Calibration and Debugging Software to monitor the interface data in real time during the cleaning process.  
 
-**Usage Guide for ICBlocks Calibration Software: **[Guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/01ICBlocksCalibrationandDebuggingToolGuide.html)
+**Usage Guide for ICBlocks Calibration Software:**[Guide](https://icreaterobot-docs.readthedocs.io/en/latest/docs/ICBlocks/06MaintenanceandDebug/01ICBlocksCalibrationandDebuggingToolGuide.html)
 
 
 
