@@ -3,7 +3,7 @@
 The ICBlocks Calibration and Debugging Tool is a dedicated software designed for ICBlocks Boxy Robots and coding boards. It assists users in monitoring device status and addressing practical issues during use effectively.  
 
 ## Software Installation  
-Download the ICBlocks Debugging Software installation package from the official website [[Download Link](https://www.icrobot.com/www/cn/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICBlocks)]. Transfer the installation package to your Android device for installation.
+Download the ICBlocks Debugging Software installation package from the official website [[Download Link](https://drive.google.com/drive/folders/1BelSOfzXOhKQjtSsvhnTnV4FC-a3zJ6A)]. Transfer the installation package to your Android device for installation.
 
 ## Interface Guide  
 The software includes five pages: the Home Interface, Bluetooth Connection Interface, Boxy Robot Debugging Interface, Boxy Robot Calibration Interface, and Coding Board Debugging Interface. Below are detailed descriptions:  
