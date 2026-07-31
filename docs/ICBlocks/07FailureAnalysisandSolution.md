@@ -95,7 +95,8 @@ Solution:
 ### Debugger Installation and Device Connection  
    1. **Install the Mini RC Debugger Application:**
 
-Download and install the **Mini RC Debugger** software. [[Debugger Download Link](https://www.icrobot.com/www/cn-mobile/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=ICRobot%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%93%9D%E7%89%99%E6%89%8B%E6%9F%84)]  
+Download and install the **Mini RC Debugger** software.[Mini RC_v1.1.zip](https://icreate-help-center.yuque.com/attachments/yuque/0/2026/zip/43021771/1785486289892-72da6a72-c215-403a-8ac4-2c55a5a74ec6.zip)
+
 ![](img/failureanalysisandsolution02.png)
 
 After installation, open the debugger. Use a USB-C cable to connect the controller to the computer's COM port.   Click "Connect Device" and select the corresponding COM port.   The controller will beep, and the Home button will flash continuously, indicating a successful connection. The initial program will appear at the top of the interface.  
