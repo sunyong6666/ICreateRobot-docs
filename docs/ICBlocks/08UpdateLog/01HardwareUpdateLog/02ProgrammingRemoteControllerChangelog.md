@@ -1,5 +1,5 @@
 # Programming Remote Controller Changelog
-| ** Version  ** | ** Optimization Details  ** | ** Update Date  ** | ** Remarks  ** |
+| **Version** | **Optimization Details** | **Update Date** | **Remarks** |
 | :---: | --- | :---: | --- |
 | V1.4.1 | Optimized the timing intervals between modules. | 2025.8.6 |  |
 | V1.4.0 |  Fixed an issue where the light did not turn on after executing certain blocks in Loop Mode.   | 2025.5.22 |  |
