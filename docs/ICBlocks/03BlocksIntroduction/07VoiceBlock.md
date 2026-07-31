@@ -9,7 +9,9 @@ The Voice Block is the only block in the ICBlocks series equipped with intellige
 ## Structure  
 
 
-![](img/VoiceBlock02.png)![](img/VoiceBlock03.png)
+|![](img/VoiceBlock02.png)|![](img/VoiceBlock03.png)|
+| :---: | :---: |
+|  |  |
 
   
 
