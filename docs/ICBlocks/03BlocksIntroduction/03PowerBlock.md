@@ -43,7 +43,7 @@ By directly connecting the record block, expression block, LED block (or color L
 
 
 ## Version Notes  
-This document is intended for the new version of the ICBlocks Power Block and is not applicable to the older version. The differences between the new and old versions are as follows:  
+**This document is intended for the new version of the ICBlocks Power Block and is not applicable to the older version.** The differences between the new and old versions are as follows:  
 
 1. **New Version:** Sound effects during power on/off, LED light flashes during charging.
 2. **Old Version:** No sound effects during power on/off, LED light stays on during charging.
