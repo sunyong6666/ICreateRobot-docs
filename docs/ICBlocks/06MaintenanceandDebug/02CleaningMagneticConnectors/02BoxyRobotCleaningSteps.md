@@ -17,7 +17,7 @@ Establish a Bluetooth connection between the Boxy Robot and the debugging softwa
 
 |![](img/boxrobot08.gif)|![](img/boxrobot09.gif)|
 | :---: | :---: |
-|   |   |
+|   |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 Connect the Gyro Block sequentially to the four magnetic connectors.   
 
