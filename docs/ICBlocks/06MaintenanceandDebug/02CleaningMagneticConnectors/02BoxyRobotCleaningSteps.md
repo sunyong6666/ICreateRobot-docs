@@ -2,7 +2,7 @@
 ## Preparation  
 | ![](img/BRCS01.png) |![](img/BRCS02.png) | ![](img/BRCS03.png) | ![](img/BRCS04.png) | ![](img/BRCS05.png) |
 | :---: | :---: | :---: | :---: | :---: |
-|  Boxy Robot | Gyro Block |  Debugging Software   |  Precision Electrical Cleaner   |  Hard-bristle Circuit Cleaning Brush   |
+|  Boxy Robot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Gyro Block &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  Debugging Software &nbsp;&nbsp;&nbsp; |  Precision Electrical Cleaner   |  Hard-bristle Circuit Cleaning Brush   |
 
 ## Bluetooth Connection Debugging Software
 | ![](img/boxrobot06.png) | ![](img/boxrobot07.png) |
@@ -32,7 +32,7 @@ Check the "Raw ID Value" displayed for each connector.
 ## Spraying Cleaner and Brushing Probes  
 | ![](img/boxrobot10.gif) | ![](img/boxrobot11.gif) |
 | :---: | :---: |
-| **Correct:** Spray directly on the pogo pin metal probes.   | **Incorrect:** Avoid spraying on strong magnets or plastic components.   |
+| **Correct:** Spray directly on the pogo pin metal probes.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Incorrect:** Avoid spraying on strong magnets or plastic components.   |
 
 
 1. Shake the precision electrical cleaner canister evenly to mix the contents.
@@ -41,7 +41,7 @@ Check the "Raw ID Value" displayed for each connector.
 
 | ![](img/boxrobot12.gif) | ![](img/boxrobot13.gif) |
 | :---: | :---: |
-| **Correct:** Focus on cleaning the pogo pin metal probes.   | **Incorrect:** Avoid cleaning strong magnets or plastic components.   |
+| **Correct:** Focus on cleaning the pogo pin metal probes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | **Incorrect:** Avoid cleaning strong magnets or plastic components.   |
 
 
 + Use the dedicated hard-bristle cleaning brush to reach the gaps of the pogo pin probes.
