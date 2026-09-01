@@ -14,7 +14,7 @@ The ICBlocks coding board is a screen-free coding platform based on the ICBlocks
 | No.   | Name   |  Description   |
 | :---: | :---: | --- |
 | **①** | Power Button   | Press and hold the power button for 1s to turn the device on/off.   |
-| **②** | Battery Indicator   | Battery Status:  <br/>1. Charging: <br/>    1. Charging: Single light flashes <br/>    2. Fully charged: 4 lights stay on  <br/>2. Working:  <br/>    1. Full charge: 4 lights stay on  <br/>    2.  Low battery warning: A single light flashes while others turn off, indicating low battery.   |
+| **②** | Battery Indicator   | Battery Status:  <br/>1. Charging: <br/>    a. Charging: Single light flashes <br/>    b. Fully charged: 4 lights stay on  <br/>2. Working:  <br/>    a. Full charge: 4 lights stay on  <br/>    b.  Low battery warning: A single light flashes while others turn off, indicating low battery.   |
 | **③** | Magnetic Block Ports    | 8 magnetic interfaces for placing green coding blocks and orange sensor blocks.   |
 | **④** | Bluetooth Status Indicator   | A steady light indicates that Bluetooth is connected; flashing indicates Bluetooth is not connected.   |
 | **⑤** | Start Button   | 1.  Start the program:  <br/> Click the start button to execute the program from left to right.  <br/>2. Skip current instruction:  <br/>During program execution, click the start button to skip the current instruction block and move to the next one.  <br/>3. Enter debug mode：<br/>In the off state, press and hold the start button, then press the power switch for 1s to turn it on and enter debug mode. The coding board can then be connected and adjusted via ICBlocks debugging software.   |
