@@ -70,7 +70,8 @@ The two orange magnetic interfaces are labeled with “+” and “-”. When us
 
 ## Coding Control - Quick Start  
 ### Effect Demonstration  
-Build a robot by combining LEGO Duplo bricks, use the coding board to control it, light up the LED block, and complete precise movements in a designated map area.  
+Build a robot using building blocks, program and control it with the programming controller, light up the LED, and enable the robot to move precisely within a designated map area.
+ 
 
 ![](img2/Introduction23.gif)
 
@@ -95,7 +96,7 @@ Build a robot by combining LEGO Duplo bricks, use the coding board to control it
 ![](img2/Introduction33.gif)
 
 #### Assemble the Robot  
-Connect the color LED block to any magnetic interface on the ICBlocks robot, and use the prepared LEGO bricks to assemble the robot as shown in the diagram below.  
+Connect the color LED block to any magnetic interface on the ICBlocks robot, and use the prepared building blocks to assemble the robot as shown in the diagram below.  
 
 ![](img2/Introduction34.gif)
 
