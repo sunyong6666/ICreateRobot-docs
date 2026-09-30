@@ -15,9 +15,9 @@ Boxy Robot, part of the ICBlocks series, integrates four main functions: control
 | **④** | Orange Status Indicator  | Introduction：<br/>1. **Port Type Indicator**:<br/>The orange status light indicates that the port supports connection to orange sensor blocks.  <br/>2. **Block Recognition Indicator**:<br/>+ When an orange magnetic port successfully recognizes an orange sensor block, the status light will flash briefly.<br/>+ If the block is not successfully recognized, the status light will remain off.<br/>3. **Bluetooth Connection Indicator**:  <br/>When the Boxy Robot successfully establishes a Bluetooth connection with the coding board or the ICrobot multifunctional Bluetooth handle, the orange status light will switch to blue, indicating that the Bluetooth connection is established.   |
 | **⑤** | Blue Magnetic Ports   | Two blue magnetic ports ("+" and "-") are available. In logic control mode, blue ports pair with corresponding orange ports.   |
 | **⑥** |  Blue Status Indicator   | Introduction：<br/>1. **Port Type**:<br/>       Lights up to indicate compatibility with blue actuator blocks.  <br/>2. **Block Recognition**：<br/>When a blue magnetic port successfully recognizes a blue actuator block, the status light will flash briefly.   If the block is not successfully identified, the indicator is not flashing. |
-| **⑦** | Power Output Axle Connector   | Equipped with two built-in geared motors. The connectors are compatible with ICBlocks long or short axles and LEGO DUPLO axle components.   |
+| **⑦** | Power Output Axle Connector   | Equipped with two built-in geared motors. The connectors are compatible with ICBlocks long or short axles.   |
 | **⑧** | USB-C Port   | Used for charging and firmware upgrades.   |
-| **⑨** | Building Structure   | Compatible with LEGO DUPLO large-brick building blocks.   |
+| **⑨** | Building Structure   | Compatible with building blocks.   |
 | **⑩** | Label Area   | Provides space for attaching Bluetooth pairing labels for the controller and programming remote.   |
 
 
@@ -37,7 +37,7 @@ Boxy Robot, part of the ICBlocks series, integrates four main functions: control
 | **Coding Support** |  Screen-free Coding |
 | **Sensor Magnetic Ports** | 2 |
 | **Actuator Magnetic Ports** | 2 |
-| **Building Compatibility** |  LEGO DUPLO   |
+| **Building Compatibility** |  Building Blocks  |
 | **Age** | 3+ |
 
 
