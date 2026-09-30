@@ -13,7 +13,7 @@ The Power Block is an independent power supply block that provides power to moto
 | **②** |  Battery Indicator   | Battery Status:  <br/>1. Charging State  <br/>a. Charging: Green light flashes    b. Fully charged: Green light stays on  <br/>2.  Operating State   <br/>Power levels are indicated by four color-coded levels:    Green: Full charge; Yellow: High battery; Orange: Medium battery; Red: Low battery.  <br/>Low Battery Warning: Red light flashes to indicate insufficient power.   |
 | **③** |  Magnetic Port | Two magnetic ports that can provide power to actuator blocks.   |
 | **④** | USB-C Port | Used for charging the Power Block and for firmware upgrades.   |
-| **⑤** | Building Structure | Compatible with LEGO DUPLO large-brick building blocks.   |
+| **⑤** | Building Structure | Building Blocks  |
 
 
 ## Specifications
@@ -30,7 +30,7 @@ The Power Block is an independent power supply block that provides power to moto
 | **Battery Life** | 3 h |
 | **Connection/Transmission** | USB-C |
 | **Magnetic Block Ports** | 2 |
-| **Building Compatibility** |  LEGO DUPLO |
+| **Building Compatibility** | Building Blocks |
 | **Age** | 3+ |
 
 
