@@ -10,7 +10,7 @@ The Motor Block provides rotational power. The motor houses an N20 gear motor th
 
 |  No.   |  Name   |  Description   | 
 | :---: | :---: | :---: |
-| **①** | **Building Structure** |  Compatible with LEGO Duplo series building blocks   | 
+| **①** | **Building Structure** |  Compatible with building blocks   | 
 | **②** | **Power Output Shaft Connector** | Outputs power from the built-in motor and connects with the building structure   | 
 | **③** | **Magnetic Connector Cable** |  Connects to the magnetic port, transmitting signals   | 
 | **④** | **Magnetic Suction Base** | Used for connecting the block to the Boxy Robot, providing stable power and data transmission   | 
