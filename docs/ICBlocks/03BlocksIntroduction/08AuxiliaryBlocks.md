@@ -14,7 +14,7 @@ The ICBlocks series boasts powerful functionality. To meet diverse assembly need
 | :---: | :---: | :---: |
 | **①** |  Magnetic Male Port   |  Connects sensor modules and actuators.   |
 | **②** |  Magnetic Female Port   | Connects to the Boxy Robot.   |
-| **③** |  Bottom Structure   |  Compatible with LEGO Duplo large-block bricks.   |
+| **③** |  Bottom Structure   |  Compatible with building blocks.   |
 
 
 ###  Specifications  
